@@ -1,0 +1,272 @@
+{
+  "PL": {
+    "title": "PolTiny PL — model językowy na Amidze 500",
+    "subtitle": "Od pierwszego portu i minut czekania do polskiej wersji na jednej dyskietce.",
+    "goal": "Fabryczna Amiga 500: 0,5 MB RAM (512 KiB), bez rozszerzeń pamięci, akceleratora i FPU.",
+    "history": "Amiga 500 to domowy komputer z 1987 roku — dziś sprzęt zabytkowy. Około 7 MHz, pół megabajta pamięci i dyskietki zamiast współczesnego dysku. Uruchomienie na nim polskiego modelu językowego brzmi jak science fiction. Od tego pomysłu zaczęliśmy.",
+    "slides": [
+      {
+        "id": "01_cover",
+        "kind": "hero",
+        "title": [
+          "PolTiny PL"
+        ],
+        "subtitle": "Model językowy na komputerze z 1987 roku.",
+        "body": "Jedna dyskietka. Pół megabajta pamięci. Pełna praca offline."
+      },
+      {
+        "id": "02_brief",
+        "kind": "brief",
+        "title": [
+          "Komputer z 1987 roku.",
+          "Pomysł z ery AI."
+        ],
+        "body": "Amiga 500 to domowy komputer z 1987 roku, dziś sprzęt zabytkowy: około 7 MHz, pół megabajta RAM i dyskietki. Polski model językowy na takim komputerze brzmi jak science fiction. Taki był cel — fabryczna A500, bez dodatków, z obliczeniami wykonywanymi lokalnie.",
+        "note": "512 KiB RAM, procesor 68000 około 7,09 MHz, Kickstart 1.3 i dyskietka DD 880 KiB. Wolny i ograniczony model został świadomie zaakceptowany."
+      },
+      {
+        "id": "03_origin",
+        "kind": "origin",
+        "title": [
+          "Zaczęło się od Tiny.",
+          "Potem padło: „na Amigę”."
+        ],
+        "body": "Punktem wyjścia był artykuł PurePC o Tiny 2.1 oraz kod projektu WollyMonjac/Tiny-2.1. To mały znakowy transformator przygotowany pierwotnie dla DOS-u i komputerów x86.",
+        "note": "Oryginał: 366 528 parametrów, 4 warstwy, alfabet 97 znaków. Kod MIT. Wagi oryginalnego Tiny były już zapisane jako int8 — późniejsza optymalizacja dotyczyła także sposobu liczenia."
+      },
+      {
+        "id": "04_waiting",
+        "kind": "screens",
+        "title": [
+          "Pierwszy sukces: działa.",
+          "Pierwszy problem: czeka."
+        ],
+        "body": "Pojawiło się okno programu na Amidze, ale nawet proste pytanie wymagało minut. Na screenach postęp przesuwał się z 7/31 do 9/31: program pracował, choć z perspektywy użytkownika wyglądał na zawieszony.",
+        "screens": [
+          "reading_7",
+          "reading_9"
+        ],
+        "note": "Każdy znak pytania i odpowiedzi wymagał przeliczenia warstw oraz ponownego odczytu wag z dyskietki. Bez FPU nawet krótkie operacje float32 były kosztowne."
+      },
+      {
+        "id": "05_boot",
+        "kind": "boot",
+        "title": [
+          "Wkładasz ADF.",
+          "Program startuje sam."
+        ],
+        "body": "Pierwszy obraz służył jako dysk danych. Kolejna iteracja otrzymała bootblock zgodny z Kickstartem 1.x, system plików OFS i Startup-Sequence uruchamiający program z odpowiednim stosem.",
+        "note": "Samobootujący ADF 880 KiB. Osobna dyskietka Workbench nie jest potrzebna. Wymagany jest Kickstart 1.3; obraz nie zawiera ROM-u ani plików dyskietki Workbench."
+      },
+      {
+        "id": "06_optimization",
+        "kind": "optimization",
+        "title": [
+          "Mniej kosztownych obliczeń.",
+          "Ta sama testowa odpowiedź."
+        ],
+        "body": "Zmieniliśmy iloczyny macierzy i obliczenia uwagi: aktywacje skalowane do int16, wagi int8, akumulacja int32. Zmniejszyliśmy również zbędne projekcje wyjścia i skoki odczytu wag.",
+        "note": "Porównanie dotyczy tego samego angielskiego modelu, pytania i pierwszych 4 znaków odpowiedzi „Thre”. To pomiar cykli CPU w emulacji 68000; bez fizycznej stacji i pełnego GUI. Nie jest porównaniem z późniejszym, większym PolTiny."
+      },
+      {
+        "id": "07_math",
+        "kind": "math",
+        "title": [
+          "2 + 5 nie powinno",
+          "czekać na transformator."
+        ],
+        "body": "Największa zmiana użytkowa: rozpoznane działanie trafia do zwykłego parsera i dokładnego kalkulatora. Wynik pojawia się bez ładowania modelu, a panel pokazuje wykonane kroki.",
+        "screens": [
+          "math_slow"
+        ],
+        "note": "Obsługa +, −, ×, /, potęg i nawiasów; dokładne ułamki w ograniczonym zakresie. 0,1 + 0,2 daje 0,3. Dzielenie przez zero zgłaszane jest od razu. Około 0,020 s dotyczy cykli CPU, bez fizycznego ładowania programu z dyskietki."
+      },
+      {
+        "id": "08_polish",
+        "kind": "polish",
+        "title": [
+          "Od polskich dodatków",
+          "do nowego modelu PL."
+        ],
+        "body": "Po drodze powstał szybki tryb z kalkulatorem i lokalną bazą: 86 polskich zestawów odpowiedzi oraz objaśnienia zjawisk. Następny etap spełniał inny cel: własne polskie wagi, zamiast samego wyszukiwania odpowiedzi.",
+        "note": "PolTiny trenowano od losowej inicjalizacji. 914 wpisów materiału, 4 123 pytania treningowe i 1 337 odłożonych sformułowań. 115 znaków obejmuje polskie litery. Trening odbywał się na współczesnym komputerze; generowanie działa offline na Amidze."
+      },
+      {
+        "id": "09_explanations",
+        "kind": "telemetry",
+        "title": [
+          "Polskie objaśnienia.",
+          "Widoczne kroki obliczeń."
+        ],
+        "body": "Dodaliśmy polski interfejs, krótkie wyjaśnienia w materiale modelu i jawne kroki kalkulatora. Podczas generowania można śledzić aktywność warstw, uwagę i prawdopodobieństwo następnego znaku oraz przerwać obliczenia.",
+        "note": "Wykresy to rzeczywista telemetria silnika, nie tekstowy zapis myśli. Model nie ma osobnego modułu ogólnego rozumowania. Prawdopodobieństwo znaku nie jest miarą prawdziwości odpowiedzi."
+      },
+      {
+        "id": "10_budget",
+        "kind": "budget",
+        "title": [
+          "Większy model.",
+          "Nadal jedna dyskietka."
+        ],
+        "body": "PolTiny ma 687 616 parametrów — około 1,88× więcej niż pierwowzór. Wagi int8 z osobnymi skalami na wiersz zajmują 708 442 bajty. Cała dyskietka jest zapełniona w 99,55% użytecznymi plikami i narzutem OFS.",
+        "note": "Silnik rezerwuje 186 KiB na stercie: cache KV, bufor macierzy i gainy. Program, stos, ekran i system potrzebują dodatkowego RAM. Większa sieć zwiększa koszt generowania tekstu; kalkulator nadal omija ten koszt."
+      },
+      {
+        "id": "11_results",
+        "kind": "results",
+        "title": [
+          "Co udało się poprawić.",
+          "Co pozostaje ograniczeniem."
+        ],
+        "body": "Wynik końcowy to mały eksperymentalny model językowy po polsku, z szybkim kalkulatorem i narzędziami obserwacji. Dobrze odtwarza pytania treningowe, ale słabiej reaguje na ich nowe sformułowania.",
+        "note": "Test po kwantyzacji, pełna zgodność tekstu odpowiedzi. Odłożone pytania dotyczą znanych faktów; to nie pomiar wiedzy na dowolny temat. Odpowiedź „stolica polski” → „Warszawa.” kosztowała około 7,5 min samych cykli 68000. Fizyczna dyskietka i pełne GUI nie są zawarte w tym czasie."
+      },
+      {
+        "id": "12_winuae",
+        "kind": "validation",
+        "title": [
+          "Sprawdzone w WinUAE.",
+          "Start bez dyskietki Workbench."
+        ],
+        "body": "Autor projektu potwierdził uruchomienie i działanie w WinUAE. Celem konfiguracji pozostaje Amiga 500 z 0,5 MB RAM, bez rozszerzeń. Obraz ADF jest samobootujący i program działa po polsku.",
+        "note": "Potwierdzenie WinUAE pochodzi od autora projektu. Oddzielnie sprawdzono kod na 68000 w VAMOS, kalkulator, model, testy pytań oraz OFS i bootblock. Nie deklarujemy niezależnego testu na fizycznej A500. Rozwój z pomocą OpenAI Codex; rdzeń i architektura na podstawie Tiny 2.1 / WollyMonjac (MIT)."
+      }
+    ],
+    "post": "Czy polski model językowy może działać na komputerze z 1987 roku i zaledwie 0,5 MB RAM?\n\nOd tego pomysłu zaczęliśmy. Celem była fabryczna Amiga 500 — bez rozszerzeń pamięci, akceleratora i FPU. Punktem wyjścia był Tiny 2.1 autorstwa WollyMonjac, pierwotnie dla DOS-u.\n\nPierwszy port uruchomił się, ale odpowiedzi zajmowały minuty. Nawet 2+5 trafiało do transformatora. Kolejne iteracje przyniosły:\n• bootowalny ADF, bez osobnej dyskietki Workbench;\n• obliczenia int8 × int16 z sumą int32 i optymalizację uwagi;\n• osobny, dokładny kalkulator z widocznymi krokami;\n• polski interfejs, objaśnienia i podgląd pracy sieci;\n• nowy PolTiny PL: 687 616 parametrów, około 1,88× więcej niż oryginał.\n\nW porównywalnym teście pierwotnego silnika liczba cykli CPU spadła o 39,55%. Kalkulator 2+5 zużywa około 0,020 s cykli 68000. Generowanie tekstu przez większy model nadal jest wolne.\n\nCałość zajmuje 99,55% dyskietki 880 KiB. Potwierdziłem działanie w WinUAE; ADF startuje sam i nie wymaga osobnego Workbencha, ale potrzebuje Kickstartu 1.3.\n\nOgraniczenia też są częścią wyniku: 99,66% dokładnych odpowiedzi na pytania treningowe i 33,88% na odłożone sformułowania. To mały eksperyment językowy, a nie współczesny duży LLM. Podane czasy są pomiarami cykli CPU, bez opóźnień fizycznej dyskietki.\n\nProjekt rozwijany z pomocą OpenAI Codex, na bazie Tiny 2.1 / WollyMonjac (MIT).\n\n#Amiga #Retrocomputing #MachineLearning #EmbeddedSystems #PolTiny"
+  },
+  "EN": {
+    "title": "PolTiny PL — a Polish language model on the Amiga 500",
+    "subtitle": "From a slow first port to a Polish model on one floppy disk.",
+    "goal": "A stock Amiga 500: 0.5 MB RAM (512 KiB), no memory expansion, accelerator or FPU.",
+    "history": "The Amiga 500 is a 1987 home computer, now vintage hardware. A roughly 7 MHz processor, half a megabyte of memory and floppy disks instead of modern storage. Running a Polish language model on it sounds like science fiction. That was our starting point.",
+    "slides": [
+      {
+        "id": "01_cover",
+        "kind": "hero",
+        "title": [
+          "PolTiny PL"
+        ],
+        "subtitle": "A language model on a computer from 1987.",
+        "body": "One floppy disk. Half a megabyte of RAM. Fully offline."
+      },
+      {
+        "id": "02_brief",
+        "kind": "brief",
+        "title": [
+          "A computer from 1987.",
+          "An idea from the AI era."
+        ],
+        "body": "The Amiga 500 is a 1987 home computer, now vintage hardware: roughly 7 MHz, half a megabyte of RAM and floppy disks. A Polish language model on this machine sounds like science fiction. That was the target: a stock A500, no expansions, with all inference running locally.",
+        "note": "512 KiB RAM, a roughly 7.09 MHz 68000, Kickstart 1.3 and one 880 KiB DD floppy. A slow, limited Tiny PL model was an explicitly accepted trade-off."
+      },
+      {
+        "id": "03_origin",
+        "kind": "origin",
+        "title": [
+          "It started with Tiny.",
+          "Then: “Make it run on an Amiga.”"
+        ],
+        "body": "The starting point was a PurePC article about Tiny 2.1 and the WollyMonjac/Tiny-2.1 source project: a small character-level transformer originally designed for DOS and x86 computers.",
+        "note": "Original model: 366,528 parameters, four layers and a 97-token alphabet. MIT-licensed code. Tiny's original weights were already int8; later improvements also changed how the calculations were performed."
+      },
+      {
+        "id": "04_waiting",
+        "kind": "screens",
+        "title": [
+          "First success: it runs.",
+          "First problem: the wait."
+        ],
+        "body": "A native Amiga window appeared, but even a simple question could take minutes. The screenshots advanced from 7/31 to 9/31: the program was working, although it could look frozen to the user.",
+        "screens": [
+          "reading_7",
+          "reading_9"
+        ],
+        "note": "Every prompt and output character required processing the layers and reading weights from the floppy again. Without an FPU, even short float32 operations were expensive."
+      },
+      {
+        "id": "05_boot",
+        "kind": "boot",
+        "title": [
+          "Insert the ADF.",
+          "The program starts itself."
+        ],
+        "body": "The initial image was a data disk. A later iteration added a Kickstart 1.x-compatible bootblock, an OFS filesystem and a Startup-Sequence that launched the program with a suitable stack.",
+        "note": "Self-booting 880 KiB ADF. No separate Workbench disk required. Kickstart 1.3 is still required; the image does not include a ROM or files from a Workbench disk."
+      },
+      {
+        "id": "06_optimization",
+        "kind": "optimization",
+        "title": [
+          "Less expensive computation.",
+          "The same test output."
+        ],
+        "body": "Matrix products and attention were reworked around int16-scaled activations, int8 weights and int32 accumulation. Unused output projections and unnecessary weight-file seeks were reduced too.",
+        "note": "Same English model, same question, same first four output characters: “Thre”. This measures emulated 68000 CPU cycles, excluding physical floppy latency and full GUI costs. It is not a comparison against the later, larger PolTiny model."
+      },
+      {
+        "id": "07_math",
+        "kind": "math",
+        "title": [
+          "2 + 5 should not",
+          "wait for a transformer."
+        ],
+        "body": "The biggest usability change was routing recognised arithmetic expressions to a conventional parser and exact calculator. Results no longer required loading the model, and the panel displayed the actual calculation steps.",
+        "screens": [
+          "math_slow"
+        ],
+        "note": "Supports +, −, ×, /, powers and parentheses using bounded exact fractions. 0.1 + 0.2 returns 0.3. Division by zero is reported immediately. The roughly 0.020 s figure counts CPU cycles, not physical floppy program-loading time."
+      },
+      {
+        "id": "08_polish",
+        "kind": "polish",
+        "title": [
+          "From Polish helpers",
+          "to a new Polish model."
+        ],
+        "body": "An intermediate fast mode combined a calculator with local lookup: 86 Polish answer sets and short explanations. The next phase pursued a different goal: new Polish weights, rather than lookup alone.",
+        "note": "PolTiny was trained from random initialisation: 914 material entries, 4,123 training questions and 1,337 held-out phrasings. Its 115-token alphabet includes Polish characters. Training ran on a modern computer; inference runs offline on the Amiga."
+      },
+      {
+        "id": "09_explanations",
+        "kind": "telemetry",
+        "title": [
+          "Polish explanations.",
+          "Visible calculation steps."
+        ],
+        "body": "We added a Polish interface, short explanations in the training material and explicit calculator steps. During generation, users can inspect layer activity, attention and next-character probability, or stop the calculation.",
+        "note": "The charts are real engine telemetry, not a textual record of thoughts. The model has no separate general-reasoning module. A character's probability is not a measure of factual correctness."
+      },
+      {
+        "id": "10_budget",
+        "kind": "budget",
+        "title": [
+          "A larger model.",
+          "Still one floppy disk."
+        ],
+        "body": "PolTiny has 687,616 parameters, about 1.88× the original model. Int8 weights with per-row scales occupy 708,442 bytes. Useful files and OFS overhead fill 99.55% of the disk.",
+        "note": "The engine allocates 186 KiB on its heap for the KV cache, matrix buffer and gains. Code, stack, display and OS need additional memory. A larger network increases text-generation cost; the calculator continues to bypass that cost."
+      },
+      {
+        "id": "11_results",
+        "kind": "results",
+        "title": [
+          "What improved.",
+          "What remains limited."
+        ],
+        "body": "The result is a small experimental Polish language model with a fast calculator and useful instrumentation. It reproduces training questions well, but handles rephrased questions much less reliably.",
+        "note": "Evaluation after quantisation, requiring an exact output-text match. Held-out questions rephrase known facts; this is not an open-domain knowledge benchmark. “stolica polski” → “Warszawa.” required roughly 7.5 minutes of 68000 CPU cycles alone. Physical floppy latency and full GUI costs are excluded."
+      },
+      {
+        "id": "12_winuae",
+        "kind": "validation",
+        "title": [
+          "Running in WinUAE.",
+          "No separate Workbench disk."
+        ],
+        "body": "The project author confirmed that the program starts and works in WinUAE. The configuration target remains an Amiga 500 with 0.5 MB RAM and no expansions. The ADF boots itself and the program works in Polish.",
+        "note": "WinUAE confirmation is author-reported. Separate checks covered 68000 execution in VAMOS, arithmetic, model integrity, question evaluation, OFS and the bootblock. No independent physical-A500 test is claimed. Developed with OpenAI Codex, based on Tiny 2.1 / WollyMonjac (MIT)."
+      }
+    ],
+    "post": "Can a Polish language model run on a 1987 computer with just 0.5 MB RAM?\n\nThat was the brief: a stock Amiga 500, with no memory expansion, accelerator or FPU. We started from WollyMonjac's Tiny 2.1, originally designed for DOS.\n\nThe first port ran, but responses took minutes. Even 2+5 was sent through the transformer. Iteration brought:\n• a self-booting ADF, with no separate Workbench disk;\n• int8 × int16 products, int32 accumulation and attention optimisation;\n• an exact calculator showing its actual steps;\n• a Polish interface, explanations and live engine telemetry;\n• a new PolTiny PL model: 687,616 parameters, about 1.88× the original.\n\nIn a controlled comparison of the original engine, CPU-cycle consumption fell by 39.55%. The 2+5 calculator command uses roughly 0.020 seconds of 68000 CPU cycles. Text generation with the larger model remains slow.\n\nUseful files and OFS overhead fill 99.55% of one 880 KiB floppy. I confirmed it running in WinUAE. The ADF boots itself and requires no separate Workbench disk, although Kickstart 1.3 is still needed.\n\nThe limitations matter too: 99.66% exact matches on training questions and 33.88% on held-out rephrasings. This is a small language-model experiment, with far less capability than a modern large LLM. Timing figures count CPU cycles and exclude physical floppy latency.\n\nDeveloped with OpenAI Codex, based on Tiny 2.1 / WollyMonjac (MIT).\n\n#Amiga #Retrocomputing #MachineLearning #EmbeddedSystems #PolTiny"
+  }
+}

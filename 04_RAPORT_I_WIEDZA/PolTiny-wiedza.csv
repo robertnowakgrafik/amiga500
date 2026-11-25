@@ -1,0 +1,915 @@
+﻿temat,pytania źródłowe,odpowiedź do nauczenia
+rozmowa,cześć | hej | witaj,Cześć! Jestem PolTiny. W czym mogę pomóc?
+rozmowa,jak się nazywasz | kim jesteś,"Jestem PolTiny, mały model językowy na Amigę."
+rozmowa,co potrafisz | jaką masz wiedzę,Odpowiadam na proste pytania po polsku. Mogę się mylić.
+rozmowa,dziękuję | dzięki,Proszę bardzo!
+rozmowa,do widzenia | pa | dobranoc,Do widzenia!
+rozmowa,czy rozmawiasz po polsku | jaki znasz język,Uczę się odpowiadać po polsku.
+rozmowa,czy masz uczucia | czy jesteś człowiekiem,Nie. Jestem programem komputerowym.
+rozmowa,czy wszystko wiesz | czy zawsze masz rację,Nie. Moja wiedza jest ograniczona i mogę popełniać błędy.
+rozmowa,czy masz internet | czy możesz sprawdzić w sieci,Nie mam połączenia z internetem.
+rozmowa,czy uczysz się z rozmowy | czy zapamiętujesz nowe fakty,Nie zmieniam wag podczas rozmowy.
+rozmowa,opowiedz żart | powiedz żart,Dlaczego komputer poszedł do lekarza? Złapał wirusa.
+komputery,co to jest komputer | czym jest komputer,Komputer wykonuje instrukcje i przetwarza dane.
+komputery,co to jest procesor | do czego służy procesor,Procesor wykonuje instrukcje programu.
+komputery,co to jest ram | do czego służy ram,RAM to pamięć robocza komputera.
+komputery,co to jest rom | do czego służy rom,ROM przechowuje dane także po wyłączeniu zasilania.
+komputery,co to jest bit | czym jest bit,Bit przyjmuje wartość zero albo jeden.
+komputery,ile bitów ma bajt | z ilu bitów składa się bajt,Bajt składa się z ośmiu bitów.
+komputery,co to jest program | czym jest program,Program jest zestawem instrukcji dla komputera.
+komputery,co to jest algorytm | czym jest algorytm,Algorytm opisuje kolejne kroki rozwiązania zadania.
+komputery,co to jest zmienna | czym jest zmienna,Zmienna przechowuje nazwaną wartość w programie.
+komputery,co to jest pętla | do czego służy pętla,Pętla powtarza określone instrukcje.
+komputery,co to jest kompilator | co robi kompilator,Kompilator tłumaczy kod źródłowy na kod programu.
+komputery,co to jest błąd programu | co to jest bug,To niezamierzone działanie programu.
+komputery,co to jest amiga | czym jest amiga,Amiga to rodzina komputerów firmy Commodore.
+komputery,jaki procesor ma amiga 500 | procesor amigi 500,Amiga 500 ma procesor Motorola 68000.
+komputery,ile pamięci ma amiga 500 | ram fabrycznej amigi 500,Fabryczna Amiga 500 ma 512 KiB pamięci RAM.
+komputery,co to jest workbench | czym jest workbench,Workbench to graficzne środowisko systemu Amigi.
+komputery,co to jest kickstart | czym jest kickstart,Kickstart zawiera podstawowe składniki systemu Amigi.
+komputery,co to jest dyskietka | czym jest dyskietka,Dyskietka to magnetyczny nośnik danych.
+komputery,co to jest sieć neuronowa | czym jest sieć neuronowa,"To model, który uczy się zależności z przykładów."
+komputery,co to jest model językowy | czym jest model językowy,Model językowy przewiduje kolejne elementy tekstu.
+komputery,co to jest kwantyzacja | na czym polega kwantyzacja,Kwantyzacja zapisuje liczby z mniejszą precyzją.
+komputery,co pokazuje uwaga | czym jest uwaga w modelu,Uwaga określa wpływ pozycji kontekstu na obliczenia.
+komputery,czy pewność znaku oznacza prawdę | czy model może zmyślać,Nie gwarantuję prawdy. Mogę podać błędną odpowiedź.
+matematyka,co to jest dodawanie | czym jest dodawanie,Dodawanie łączy liczby w sumę.
+matematyka,co to jest odejmowanie | czym jest odejmowanie,Odejmowanie wyznacza różnicę liczb.
+matematyka,co to jest mnożenie | czym jest mnożenie,Mnożenie można rozumieć jako wielokrotne dodawanie.
+matematyka,co to jest dzielenie | czym jest dzielenie,Dzielenie wyznacza iloraz liczb.
+matematyka,dlaczego nie dzielimy przez zero | czy można dzielić przez zero,Dzielenie przez zero nie ma jednoznacznego wyniku.
+matematyka,co to jest ułamek | czym jest ułamek,Ułamek oznacza iloraz licznika i mianownika.
+matematyka,co to jest procent | ile to jeden procent,Jeden procent oznacza jedną setną całości.
+matematyka,co to jest średnia | jak obliczyć średnią,Dodaj wartości i podziel sumę przez ich liczbę.
+matematyka,co to jest liczba parzysta | kiedy liczba jest parzysta,Liczba parzysta dzieli się przez dwa bez reszty.
+matematyka,co to jest liczba pierwsza | czym jest liczba pierwsza,Ma dokładnie dwa dodatnie dzielniki: jeden i samą siebie.
+matematyka,ile boków ma trójkąt | boki trójkąta,Trójkąt ma trzy boki.
+matematyka,ile boków ma kwadrat | boki kwadratu,Kwadrat ma cztery równe boki.
+matematyka,ile stopni ma kąt prosty | miara kąta prostego,Kąt prosty ma dziewięćdziesiąt stopni.
+nauka,dlaczego jest dzień i noc | skąd się bierze dzień i noc,Ziemia obraca się wokół własnej osi.
+nauka,dlaczego są pory roku | skąd się biorą pory roku,Przyczyną jest nachylenie osi Ziemi i jej obieg wokół Słońca.
+nauka,dlaczego księżyc świeci | czy księżyc świeci własnym światłem,Księżyc odbija światło Słońca.
+nauka,dlaczego lód pływa | czemu lód unosi się na wodzie,Lód ma mniejszą gęstość niż ciekła woda.
+nauka,dlaczego przedmioty spadają | co przyciąga przedmioty do ziemi,Przyciąga je grawitacja.
+nauka,dlaczego pada deszcz | skąd się bierze deszcz,Krople wody w chmurach rosną i opadają na ziemię.
+nauka,dlaczego niebo jest niebieskie | czemu niebo ma niebieski kolor,Powietrze silniej rozprasza krótkie fale światła.
+nauka,dlaczego rośliny są zielone | skąd zielony kolor liści,Chlorofil słabiej pochłania zielone światło.
+nauka,co to jest fotosynteza | do czego roślinom światło,Rośliny wykorzystują światło do wytwarzania pokarmu.
+nauka,co to jest parowanie | czym jest parowanie,Parowanie to przechodzenie cieczy w gaz.
+nauka,co to jest skraplanie | czym jest skraplanie,Skraplanie to przechodzenie gazu w ciecz.
+nauka,co to jest atom | czym jest atom,Atom składa się z jądra i elektronów.
+nauka,co to jest pierwiastek | czym jest pierwiastek chemiczny,Pierwiastek tworzą atomy o tej samej liczbie protonów.
+nauka,co to jest liczba atomowa | co oznacza liczba atomowa,Liczba atomowa to liczba protonów w jądrze.
+nauka,co to jest cząsteczka | czym jest cząsteczka,Cząsteczka to grupa połączonych atomów.
+nauka,z czego składa się woda | wzór chemiczny wody,Cząsteczka wody ma dwa atomy wodoru i jeden atom tlenu.
+nauka,co to jest energia | czym jest energia,Energia wiąże się ze zdolnością do wykonywania pracy.
+nauka,co to jest dźwięk | czym jest dźwięk,Dźwięk to fala mechaniczna rozchodząca się w ośrodku.
+nauka,czy dźwięk rozchodzi się w próżni | czy w próżni słychać dźwięk,Nie. Dźwięk potrzebuje ośrodka.
+nauka,dlaczego metal przewodzi prąd | jak metal przewodzi prąd,W metalu mogą przemieszczać się swobodne elektrony.
+nauka,ile centymetrów ma metr | centymetry w metrze,Jeden metr to sto centymetrów.
+nauka,ile metrów ma kilometr | metry w kilometrze,Jeden kilometr to tysiąc metrów.
+nauka,ile gramów ma kilogram | gramy w kilogramie,Jeden kilogram to tysiąc gramów.
+kosmos,ile planet ma układ słoneczny | ile jest planet,Układ Słoneczny ma osiem planet.
+kosmos,jaka jest największa planeta | największa planeta,Największą planetą jest Jowisz.
+kosmos,jaka jest najmniejsza planeta | najmniejsza planeta,Najmniejszą planetą jest Merkury.
+kosmos,która planeta jest najbliżej słońca | pierwsza planeta,Najbliżej Słońca krąży Merkury.
+kosmos,która planeta jest czerwona | czerwona planeta,Czerwoną planetą nazywamy Marsa.
+kosmos,która planeta ma słynne pierścienie | pierścienie planety,Saturn jest znany z rozległych pierścieni.
+kosmos,co to jest słońce | czym jest słońce,Słońce jest gwiazdą.
+kosmos,co to jest księżyc | czym jest księżyc,Księżyc jest naturalnym satelitą Ziemi.
+kosmos,ile księżyców ma mars | księżyce marsa,Mars ma dwa księżyce: Fobosa i Deimosa.
+kosmos,jak nazywa się nasza galaktyka | nazwa naszej galaktyki,Nasza galaktyka to Droga Mleczna.
+kosmos,kto pierwszy stanął na księżycu | pierwszy człowiek na księżycu,"Neil Armstrong, w 1969 roku."
+kosmos,kto pierwszy poleciał w kosmos | pierwszy człowiek w kosmosie,"Jurij Gagarin, w 1961 roku."
+kosmos,czy pluton jest planetą | co to jest pluton,Pluton jest planetą karłowatą.
+ciało,do czego służy serce | co robi serce,Serce pompuje krew.
+ciało,do czego służą płuca | co robią płuca,Płuca umożliwiają wymianę tlenu i dwutlenku węgla.
+ciało,do czego służy mózg | co robi mózg,Mózg przetwarza informacje i steruje organizmem.
+ciało,ile kości ma dorosły człowiek | kości dorosłego człowieka,Dorosły człowiek ma zwykle 206 kości.
+ciało,czym widzimy | narząd wzroku,Widzimy oczami.
+ciało,czym słyszymy | narząd słuchu,Słyszymy uszami.
+ciało,czym wąchamy | narząd węchu,Zapachy odbieramy nosem.
+ciało,czym odczuwamy smak | narząd smaku,Smak odczuwamy językiem.
+zwierzęta,czy wieloryb jest rybą | czy wieloryb to ryba,Nie. Wieloryb jest ssakiem.
+zwierzęta,czy nietoperz jest ptakiem | czy nietoperz to ptak,Nie. Nietoperz jest ssakiem.
+zwierzęta,ile nóg ma pająk | nogi pająka,Pająk ma osiem nóg.
+zwierzęta,ile nóg ma owad | nogi owada,Owad ma sześć nóg.
+zwierzęta,ile serc ma ośmiornica | serca ośmiornicy,Ośmiornica ma trzy serca.
+zwierzęta,jakie zwierzę jest najszybsze na lądzie | najszybsze zwierzę lądowe,Najszybszym zwierzęciem lądowym jest gepard.
+świat,jaki jest największy ocean | największy ocean świata,Największym oceanem jest Ocean Spokojny.
+świat,jaka jest najwyższa góra | najwyższy szczyt świata,Najwyższym szczytem nad poziomem morza jest Mount Everest.
+świat,ile jest kontynentów | liczba kontynentów,W popularnym podziale wyróżnia się siedem kontynentów.
+świat,jakie państwo jest największe | największy kraj świata,Największym państwem pod względem powierzchni jest Rosja.
+świat,jakie państwo jest najmniejsze | najmniejszy kraj świata,Najmniejszym państwem jest Watykan.
+świat,gdzie jest wieża eiffla | miasto z wieżą eiffla,Wieża Eiffla znajduje się w Paryżu.
+świat,ile ludzi żyje na ziemi | aktualna liczba ludności świata,Nie mam aktualnych danych o liczbie ludności.
+stolice,"stolica kraju afganistan | jaka jest stolica kraju afganistan | państwo: afganistan, stolica? | afganistan - stolica | podaj stolicę kraju afganistan",Kabul.
+kontynenty,kontynent kraju afganistan | na jakim kontynencie leży afganistan | gdzie leży afganistan | afganistan - kontynent | podaj kontynent kraju afganistan,Azja.
+stolice,"stolica kraju angola | jaka jest stolica kraju angola | państwo: angola, stolica? | angola - stolica | podaj stolicę kraju angola",Luanda.
+kontynenty,kontynent kraju angola | na jakim kontynencie leży angola | gdzie leży angola | angola - kontynent | podaj kontynent kraju angola,Afryka.
+stolice,"stolica kraju albania | jaka jest stolica kraju albania | państwo: albania, stolica? | albania - stolica | podaj stolicę kraju albania",Tirana.
+kontynenty,kontynent kraju albania | na jakim kontynencie leży albania | gdzie leży albania | albania - kontynent | podaj kontynent kraju albania,Europa.
+stolice,"stolica kraju andora | jaka jest stolica kraju andora | państwo: andora, stolica? | andora - stolica | podaj stolicę kraju andora",Andorra la Vella.
+kontynenty,kontynent kraju andora | na jakim kontynencie leży andora | gdzie leży andora | andora - kontynent | podaj kontynent kraju andora,Europa.
+stolice,"stolica kraju zjednoczone emiraty arabskie | jaka jest stolica kraju zjednoczone emiraty arabskie | państwo: zjednoczone emiraty arabskie, stolica? | zjednoczone emiraty arabskie - stolica | podaj stolicę kraju zjednoczone emiraty arabskie",Abu Dhabi.
+kontynenty,kontynent kraju zjednoczone emiraty arabskie | na jakim kontynencie leży zjednoczone emiraty arabskie | gdzie leży zjednoczone emiraty arabskie | zjednoczone emiraty arabskie - kontynent | podaj kontynent kraju zjednoczone emiraty arabskie,Azja.
+stolice,"stolica kraju argentyna | jaka jest stolica kraju argentyna | państwo: argentyna, stolica? | argentyna - stolica | podaj stolicę kraju argentyna",Buenos Aires.
+kontynenty,kontynent kraju argentyna | na jakim kontynencie leży argentyna | gdzie leży argentyna | argentyna - kontynent | podaj kontynent kraju argentyna,Ameryka Południowa.
+stolice,"stolica kraju armenia | jaka jest stolica kraju armenia | państwo: armenia, stolica? | armenia - stolica | podaj stolicę kraju armenia",Yerevan.
+kontynenty,kontynent kraju armenia | na jakim kontynencie leży armenia | gdzie leży armenia | armenia - kontynent | podaj kontynent kraju armenia,Azja.
+stolice,"stolica kraju antigua i barbuda | jaka jest stolica kraju antigua i barbuda | państwo: antigua i barbuda, stolica? | antigua i barbuda - stolica | podaj stolicę kraju antigua i barbuda",Saint John's.
+kontynenty,kontynent kraju antigua i barbuda | na jakim kontynencie leży antigua i barbuda | gdzie leży antigua i barbuda | antigua i barbuda - kontynent | podaj kontynent kraju antigua i barbuda,Ameryka Północna.
+stolice,"stolica kraju australia | jaka jest stolica kraju australia | państwo: australia, stolica? | australia - stolica | podaj stolicę kraju australia | stolica australii | jaka jest stolica australii | co jest stolicą australii",Canberra.
+kontynenty,kontynent kraju australia | na jakim kontynencie leży australia | gdzie leży australia | australia - kontynent | podaj kontynent kraju australia,Oceania.
+stolice,"stolica kraju austria | jaka jest stolica kraju austria | państwo: austria, stolica? | austria - stolica | podaj stolicę kraju austria | stolica austrii | jaka jest stolica austrii | co jest stolicą austrii",Wiedeń.
+kontynenty,kontynent kraju austria | na jakim kontynencie leży austria | gdzie leży austria | austria - kontynent | podaj kontynent kraju austria,Europa.
+stolice,"stolica kraju azerbejdżan | jaka jest stolica kraju azerbejdżan | państwo: azerbejdżan, stolica? | azerbejdżan - stolica | podaj stolicę kraju azerbejdżan",Baku.
+kontynenty,kontynent kraju azerbejdżan | na jakim kontynencie leży azerbejdżan | gdzie leży azerbejdżan | azerbejdżan - kontynent | podaj kontynent kraju azerbejdżan,Azja.
+stolice,"stolica kraju burundi | jaka jest stolica kraju burundi | państwo: burundi, stolica? | burundi - stolica | podaj stolicę kraju burundi",Gitega.
+kontynenty,kontynent kraju burundi | na jakim kontynencie leży burundi | gdzie leży burundi | burundi - kontynent | podaj kontynent kraju burundi,Afryka.
+stolice,"stolica kraju belgia | jaka jest stolica kraju belgia | państwo: belgia, stolica? | belgia - stolica | podaj stolicę kraju belgia | stolica belgii | jaka jest stolica belgii | co jest stolicą belgii",Bruksela.
+kontynenty,kontynent kraju belgia | na jakim kontynencie leży belgia | gdzie leży belgia | belgia - kontynent | podaj kontynent kraju belgia,Europa.
+stolice,"stolica kraju benin | jaka jest stolica kraju benin | państwo: benin, stolica? | benin - stolica | podaj stolicę kraju benin",Porto-Novo.
+kontynenty,kontynent kraju benin | na jakim kontynencie leży benin | gdzie leży benin | benin - kontynent | podaj kontynent kraju benin,Afryka.
+stolice,"stolica kraju burkina faso | jaka jest stolica kraju burkina faso | państwo: burkina faso, stolica? | burkina faso - stolica | podaj stolicę kraju burkina faso",Ouagadougou.
+kontynenty,kontynent kraju burkina faso | na jakim kontynencie leży burkina faso | gdzie leży burkina faso | burkina faso - kontynent | podaj kontynent kraju burkina faso,Afryka.
+stolice,"stolica kraju bangladesz | jaka jest stolica kraju bangladesz | państwo: bangladesz, stolica? | bangladesz - stolica | podaj stolicę kraju bangladesz",Dhaka.
+kontynenty,kontynent kraju bangladesz | na jakim kontynencie leży bangladesz | gdzie leży bangladesz | bangladesz - kontynent | podaj kontynent kraju bangladesz,Azja.
+stolice,"stolica kraju bułgaria | jaka jest stolica kraju bułgaria | państwo: bułgaria, stolica? | bułgaria - stolica | podaj stolicę kraju bułgaria | stolica bułgarii | jaka jest stolica bułgarii | co jest stolicą bułgarii",Sofia.
+kontynenty,kontynent kraju bułgaria | na jakim kontynencie leży bułgaria | gdzie leży bułgaria | bułgaria - kontynent | podaj kontynent kraju bułgaria,Europa.
+stolice,"stolica kraju bahrajn | jaka jest stolica kraju bahrajn | państwo: bahrajn, stolica? | bahrajn - stolica | podaj stolicę kraju bahrajn",Manama.
+kontynenty,kontynent kraju bahrajn | na jakim kontynencie leży bahrajn | gdzie leży bahrajn | bahrajn - kontynent | podaj kontynent kraju bahrajn,Azja.
+stolice,"stolica kraju bahamy | jaka jest stolica kraju bahamy | państwo: bahamy, stolica? | bahamy - stolica | podaj stolicę kraju bahamy",Nassau.
+kontynenty,kontynent kraju bahamy | na jakim kontynencie leży bahamy | gdzie leży bahamy | bahamy - kontynent | podaj kontynent kraju bahamy,Ameryka Północna.
+stolice,"stolica kraju bośnia i hercegowina | jaka jest stolica kraju bośnia i hercegowina | państwo: bośnia i hercegowina, stolica? | bośnia i hercegowina - stolica | podaj stolicę kraju bośnia i hercegowina",Sarajevo.
+kontynenty,kontynent kraju bośnia i hercegowina | na jakim kontynencie leży bośnia i hercegowina | gdzie leży bośnia i hercegowina | bośnia i hercegowina - kontynent | podaj kontynent kraju bośnia i hercegowina,Europa.
+stolice,"stolica kraju białoruś | jaka jest stolica kraju białoruś | państwo: białoruś, stolica? | białoruś - stolica | podaj stolicę kraju białoruś",Minsk.
+kontynenty,kontynent kraju białoruś | na jakim kontynencie leży białoruś | gdzie leży białoruś | białoruś - kontynent | podaj kontynent kraju białoruś,Europa.
+stolice,"stolica kraju belize | jaka jest stolica kraju belize | państwo: belize, stolica? | belize - stolica | podaj stolicę kraju belize",Belmopan.
+kontynenty,kontynent kraju belize | na jakim kontynencie leży belize | gdzie leży belize | belize - kontynent | podaj kontynent kraju belize,Ameryka Północna.
+stolice,"stolica kraju boliwia | jaka jest stolica kraju boliwia | państwo: boliwia, stolica? | boliwia - stolica | podaj stolicę kraju boliwia",Sucre.
+kontynenty,kontynent kraju boliwia | na jakim kontynencie leży boliwia | gdzie leży boliwia | boliwia - kontynent | podaj kontynent kraju boliwia,Ameryka Południowa.
+stolice,"stolica kraju brazylia | jaka jest stolica kraju brazylia | państwo: brazylia, stolica? | brazylia - stolica | podaj stolicę kraju brazylia | stolica brazylii | jaka jest stolica brazylii | co jest stolicą brazylii",Brasilia.
+kontynenty,kontynent kraju brazylia | na jakim kontynencie leży brazylia | gdzie leży brazylia | brazylia - kontynent | podaj kontynent kraju brazylia,Ameryka Południowa.
+stolice,"stolica kraju barbados | jaka jest stolica kraju barbados | państwo: barbados, stolica? | barbados - stolica | podaj stolicę kraju barbados",Bridgetown.
+kontynenty,kontynent kraju barbados | na jakim kontynencie leży barbados | gdzie leży barbados | barbados - kontynent | podaj kontynent kraju barbados,Ameryka Północna.
+stolice,"stolica kraju brunei | jaka jest stolica kraju brunei | państwo: brunei, stolica? | brunei - stolica | podaj stolicę kraju brunei",Bandar Seri Begawan.
+kontynenty,kontynent kraju brunei | na jakim kontynencie leży brunei | gdzie leży brunei | brunei - kontynent | podaj kontynent kraju brunei,Azja.
+stolice,"stolica kraju bhutan | jaka jest stolica kraju bhutan | państwo: bhutan, stolica? | bhutan - stolica | podaj stolicę kraju bhutan",Thimphu.
+kontynenty,kontynent kraju bhutan | na jakim kontynencie leży bhutan | gdzie leży bhutan | bhutan - kontynent | podaj kontynent kraju bhutan,Azja.
+stolice,"stolica kraju botswana | jaka jest stolica kraju botswana | państwo: botswana, stolica? | botswana - stolica | podaj stolicę kraju botswana",Gaborone.
+kontynenty,kontynent kraju botswana | na jakim kontynencie leży botswana | gdzie leży botswana | botswana - kontynent | podaj kontynent kraju botswana,Afryka.
+stolice,"stolica kraju republika środkowoafrykańska | jaka jest stolica kraju republika środkowoafrykańska | państwo: republika środkowoafrykańska, stolica? | republika środkowoafrykańska - stolica | podaj stolicę kraju republika środkowoafrykańska",Bangui.
+kontynenty,kontynent kraju republika środkowoafrykańska | na jakim kontynencie leży republika środkowoafrykańska | gdzie leży republika środkowoafrykańska | republika środkowoafrykańska - kontynent | podaj kontynent kraju republika środkowoafrykańska,Afryka.
+stolice,"stolica kraju kanada | jaka jest stolica kraju kanada | państwo: kanada, stolica? | kanada - stolica | podaj stolicę kraju kanada | stolica kanady | jaka jest stolica kanady | co jest stolicą kanady",Ottawa.
+kontynenty,kontynent kraju kanada | na jakim kontynencie leży kanada | gdzie leży kanada | kanada - kontynent | podaj kontynent kraju kanada,Ameryka Północna.
+stolice,"stolica kraju szwajcaria | jaka jest stolica kraju szwajcaria | państwo: szwajcaria, stolica? | szwajcaria - stolica | podaj stolicę kraju szwajcaria | stolica szwajcarii | jaka jest stolica szwajcarii | co jest stolicą szwajcarii",Bern.
+kontynenty,kontynent kraju szwajcaria | na jakim kontynencie leży szwajcaria | gdzie leży szwajcaria | szwajcaria - kontynent | podaj kontynent kraju szwajcaria,Europa.
+stolice,"stolica kraju chile | jaka jest stolica kraju chile | państwo: chile, stolica? | chile - stolica | podaj stolicę kraju chile",Santiago.
+kontynenty,kontynent kraju chile | na jakim kontynencie leży chile | gdzie leży chile | chile - kontynent | podaj kontynent kraju chile,Ameryka Południowa.
+stolice,"stolica kraju chiny | jaka jest stolica kraju chiny | państwo: chiny, stolica? | chiny - stolica | podaj stolicę kraju chiny | stolica chin | jaka jest stolica chin | co jest stolicą chin",Pekin.
+kontynenty,kontynent kraju chiny | na jakim kontynencie leży chiny | gdzie leży chiny | chiny - kontynent | podaj kontynent kraju chiny,Azja.
+stolice,"stolica kraju wybrzeże kości słoniowej | jaka jest stolica kraju wybrzeże kości słoniowej | państwo: wybrzeże kości słoniowej, stolica? | wybrzeże kości słoniowej - stolica | podaj stolicę kraju wybrzeże kości słoniowej",Yamoussoukro.
+kontynenty,kontynent kraju wybrzeże kości słoniowej | na jakim kontynencie leży wybrzeże kości słoniowej | gdzie leży wybrzeże kości słoniowej | wybrzeże kości słoniowej - kontynent | podaj kontynent kraju wybrzeże kości słoniowej,Afryka.
+stolice,"stolica kraju kamerun | jaka jest stolica kraju kamerun | państwo: kamerun, stolica? | kamerun - stolica | podaj stolicę kraju kamerun",Yaounde.
+kontynenty,kontynent kraju kamerun | na jakim kontynencie leży kamerun | gdzie leży kamerun | kamerun - kontynent | podaj kontynent kraju kamerun,Afryka.
+stolice,"stolica kraju demokratyczna republika konga | jaka jest stolica kraju demokratyczna republika konga | państwo: demokratyczna republika konga, stolica? | demokratyczna republika konga - stolica | podaj stolicę kraju demokratyczna republika konga",Kinshasa.
+kontynenty,kontynent kraju demokratyczna republika konga | na jakim kontynencie leży demokratyczna republika konga | gdzie leży demokratyczna republika konga | demokratyczna republika konga - kontynent | podaj kontynent kraju demokratyczna republika konga,Afryka.
+stolice,"stolica kraju kongo | jaka jest stolica kraju kongo | państwo: kongo, stolica? | kongo - stolica | podaj stolicę kraju kongo",Brazzaville.
+kontynenty,kontynent kraju kongo | na jakim kontynencie leży kongo | gdzie leży kongo | kongo - kontynent | podaj kontynent kraju kongo,Afryka.
+stolice,"stolica kraju kolumbia | jaka jest stolica kraju kolumbia | państwo: kolumbia, stolica? | kolumbia - stolica | podaj stolicę kraju kolumbia",Bogota.
+kontynenty,kontynent kraju kolumbia | na jakim kontynencie leży kolumbia | gdzie leży kolumbia | kolumbia - kontynent | podaj kontynent kraju kolumbia,Ameryka Południowa.
+stolice,"stolica kraju komory | jaka jest stolica kraju komory | państwo: komory, stolica? | komory - stolica | podaj stolicę kraju komory",Moroni.
+kontynenty,kontynent kraju komory | na jakim kontynencie leży komory | gdzie leży komory | komory - kontynent | podaj kontynent kraju komory,Afryka.
+stolice,"stolica kraju republika zielonego przylądka | jaka jest stolica kraju republika zielonego przylądka | państwo: republika zielonego przylądka, stolica? | republika zielonego przylądka - stolica | podaj stolicę kraju republika zielonego przylądka",Praia.
+kontynenty,kontynent kraju republika zielonego przylądka | na jakim kontynencie leży republika zielonego przylądka | gdzie leży republika zielonego przylądka | republika zielonego przylądka - kontynent | podaj kontynent kraju republika zielonego przylądka,Afryka.
+stolice,"stolica kraju kostaryka | jaka jest stolica kraju kostaryka | państwo: kostaryka, stolica? | kostaryka - stolica | podaj stolicę kraju kostaryka",San Jose.
+kontynenty,kontynent kraju kostaryka | na jakim kontynencie leży kostaryka | gdzie leży kostaryka | kostaryka - kontynent | podaj kontynent kraju kostaryka,Ameryka Północna.
+stolice,"stolica kraju kuba | jaka jest stolica kraju kuba | państwo: kuba, stolica? | kuba - stolica | podaj stolicę kraju kuba",Havana.
+kontynenty,kontynent kraju kuba | na jakim kontynencie leży kuba | gdzie leży kuba | kuba - kontynent | podaj kontynent kraju kuba,Ameryka Północna.
+stolice,"stolica kraju cypr | jaka jest stolica kraju cypr | państwo: cypr, stolica? | cypr - stolica | podaj stolicę kraju cypr",Nikozja.
+kontynenty,kontynent kraju cypr | na jakim kontynencie leży cypr | gdzie leży cypr | cypr - kontynent | podaj kontynent kraju cypr,Europa.
+stolice,"stolica kraju czechy | jaka jest stolica kraju czechy | państwo: czechy, stolica? | czechy - stolica | podaj stolicę kraju czechy | stolica czech | jaka jest stolica czech | co jest stolicą czech",Praga.
+kontynenty,kontynent kraju czechy | na jakim kontynencie leży czechy | gdzie leży czechy | czechy - kontynent | podaj kontynent kraju czechy,Europa.
+stolice,"stolica kraju niemcy | jaka jest stolica kraju niemcy | państwo: niemcy, stolica? | niemcy - stolica | podaj stolicę kraju niemcy | stolica niemiec | jaka jest stolica niemiec | co jest stolicą niemiec",Berlin.
+kontynenty,kontynent kraju niemcy | na jakim kontynencie leży niemcy | gdzie leży niemcy | niemcy - kontynent | podaj kontynent kraju niemcy,Europa.
+stolice,"stolica kraju dżibuti | jaka jest stolica kraju dżibuti | państwo: dżibuti, stolica? | dżibuti - stolica | podaj stolicę kraju dżibuti",Djibouti.
+kontynenty,kontynent kraju dżibuti | na jakim kontynencie leży dżibuti | gdzie leży dżibuti | dżibuti - kontynent | podaj kontynent kraju dżibuti,Afryka.
+stolice,"stolica kraju dominika | jaka jest stolica kraju dominika | państwo: dominika, stolica? | dominika - stolica | podaj stolicę kraju dominika",Roseau.
+kontynenty,kontynent kraju dominika | na jakim kontynencie leży dominika | gdzie leży dominika | dominika - kontynent | podaj kontynent kraju dominika,Ameryka Północna.
+stolice,"stolica kraju dania | jaka jest stolica kraju dania | państwo: dania, stolica? | dania - stolica | podaj stolicę kraju dania | stolica danii | jaka jest stolica danii | co jest stolicą danii",Kopenhaga.
+kontynenty,kontynent kraju dania | na jakim kontynencie leży dania | gdzie leży dania | dania - kontynent | podaj kontynent kraju dania,Europa.
+stolice,"stolica kraju dominikana | jaka jest stolica kraju dominikana | państwo: dominikana, stolica? | dominikana - stolica | podaj stolicę kraju dominikana",Santo Domingo.
+kontynenty,kontynent kraju dominikana | na jakim kontynencie leży dominikana | gdzie leży dominikana | dominikana - kontynent | podaj kontynent kraju dominikana,Ameryka Północna.
+stolice,"stolica kraju algieria | jaka jest stolica kraju algieria | państwo: algieria, stolica? | algieria - stolica | podaj stolicę kraju algieria",Algiers.
+kontynenty,kontynent kraju algieria | na jakim kontynencie leży algieria | gdzie leży algieria | algieria - kontynent | podaj kontynent kraju algieria,Afryka.
+stolice,"stolica kraju ekwador | jaka jest stolica kraju ekwador | państwo: ekwador, stolica? | ekwador - stolica | podaj stolicę kraju ekwador",Quito.
+kontynenty,kontynent kraju ekwador | na jakim kontynencie leży ekwador | gdzie leży ekwador | ekwador - kontynent | podaj kontynent kraju ekwador,Ameryka Południowa.
+stolice,"stolica kraju egipt | jaka jest stolica kraju egipt | państwo: egipt, stolica? | egipt - stolica | podaj stolicę kraju egipt | stolica egiptu | jaka jest stolica egiptu | co jest stolicą egiptu",Kair.
+kontynenty,kontynent kraju egipt | na jakim kontynencie leży egipt | gdzie leży egipt | egipt - kontynent | podaj kontynent kraju egipt,Afryka.
+stolice,"stolica kraju erytrea | jaka jest stolica kraju erytrea | państwo: erytrea, stolica? | erytrea - stolica | podaj stolicę kraju erytrea",Asmara.
+kontynenty,kontynent kraju erytrea | na jakim kontynencie leży erytrea | gdzie leży erytrea | erytrea - kontynent | podaj kontynent kraju erytrea,Afryka.
+stolice,"stolica kraju hiszpania | jaka jest stolica kraju hiszpania | państwo: hiszpania, stolica? | hiszpania - stolica | podaj stolicę kraju hiszpania | stolica hiszpanii | jaka jest stolica hiszpanii | co jest stolicą hiszpanii",Madryt.
+kontynenty,kontynent kraju hiszpania | na jakim kontynencie leży hiszpania | gdzie leży hiszpania | hiszpania - kontynent | podaj kontynent kraju hiszpania,Europa.
+stolice,"stolica kraju estonia | jaka jest stolica kraju estonia | państwo: estonia, stolica? | estonia - stolica | podaj stolicę kraju estonia | stolica estonii | jaka jest stolica estonii | co jest stolicą estonii",Tallinn.
+kontynenty,kontynent kraju estonia | na jakim kontynencie leży estonia | gdzie leży estonia | estonia - kontynent | podaj kontynent kraju estonia,Europa.
+stolice,"stolica kraju etiopia | jaka jest stolica kraju etiopia | państwo: etiopia, stolica? | etiopia - stolica | podaj stolicę kraju etiopia",Addis Ababa.
+kontynenty,kontynent kraju etiopia | na jakim kontynencie leży etiopia | gdzie leży etiopia | etiopia - kontynent | podaj kontynent kraju etiopia,Afryka.
+stolice,"stolica kraju finlandia | jaka jest stolica kraju finlandia | państwo: finlandia, stolica? | finlandia - stolica | podaj stolicę kraju finlandia | stolica finlandii | jaka jest stolica finlandii | co jest stolicą finlandii",Helsinki.
+kontynenty,kontynent kraju finlandia | na jakim kontynencie leży finlandia | gdzie leży finlandia | finlandia - kontynent | podaj kontynent kraju finlandia,Europa.
+stolice,"stolica kraju fidżi | jaka jest stolica kraju fidżi | państwo: fidżi, stolica? | fidżi - stolica | podaj stolicę kraju fidżi",Suva.
+kontynenty,kontynent kraju fidżi | na jakim kontynencie leży fidżi | gdzie leży fidżi | fidżi - kontynent | podaj kontynent kraju fidżi,Oceania.
+stolice,"stolica kraju francja | jaka jest stolica kraju francja | państwo: francja, stolica? | francja - stolica | podaj stolicę kraju francja | stolica francji | jaka jest stolica francji | co jest stolicą francji",Paryż.
+kontynenty,kontynent kraju francja | na jakim kontynencie leży francja | gdzie leży francja | francja - kontynent | podaj kontynent kraju francja,Europa.
+stolice,"stolica kraju mikronezja | jaka jest stolica kraju mikronezja | państwo: mikronezja, stolica? | mikronezja - stolica | podaj stolicę kraju mikronezja",Palikir.
+kontynenty,kontynent kraju mikronezja | na jakim kontynencie leży mikronezja | gdzie leży mikronezja | mikronezja - kontynent | podaj kontynent kraju mikronezja,Oceania.
+stolice,"stolica kraju gabon | jaka jest stolica kraju gabon | państwo: gabon, stolica? | gabon - stolica | podaj stolicę kraju gabon",Libreville.
+kontynenty,kontynent kraju gabon | na jakim kontynencie leży gabon | gdzie leży gabon | gabon - kontynent | podaj kontynent kraju gabon,Afryka.
+stolice,"stolica kraju zjednoczone królestwo | jaka jest stolica kraju zjednoczone królestwo | państwo: zjednoczone królestwo, stolica? | zjednoczone królestwo - stolica | podaj stolicę kraju zjednoczone królestwo",Londyn.
+kontynenty,kontynent kraju zjednoczone królestwo | na jakim kontynencie leży zjednoczone królestwo | gdzie leży zjednoczone królestwo | zjednoczone królestwo - kontynent | podaj kontynent kraju zjednoczone królestwo,Europa.
+stolice,"stolica kraju gruzja | jaka jest stolica kraju gruzja | państwo: gruzja, stolica? | gruzja - stolica | podaj stolicę kraju gruzja",Tbilisi.
+kontynenty,kontynent kraju gruzja | na jakim kontynencie leży gruzja | gdzie leży gruzja | gruzja - kontynent | podaj kontynent kraju gruzja,Azja.
+stolice,"stolica kraju ghana | jaka jest stolica kraju ghana | państwo: ghana, stolica? | ghana - stolica | podaj stolicę kraju ghana",Accra.
+kontynenty,kontynent kraju ghana | na jakim kontynencie leży ghana | gdzie leży ghana | ghana - kontynent | podaj kontynent kraju ghana,Afryka.
+stolice,"stolica kraju gwinea | jaka jest stolica kraju gwinea | państwo: gwinea, stolica? | gwinea - stolica | podaj stolicę kraju gwinea",Conakry.
+kontynenty,kontynent kraju gwinea | na jakim kontynencie leży gwinea | gdzie leży gwinea | gwinea - kontynent | podaj kontynent kraju gwinea,Afryka.
+stolice,"stolica kraju gambia | jaka jest stolica kraju gambia | państwo: gambia, stolica? | gambia - stolica | podaj stolicę kraju gambia",Banjul.
+kontynenty,kontynent kraju gambia | na jakim kontynencie leży gambia | gdzie leży gambia | gambia - kontynent | podaj kontynent kraju gambia,Afryka.
+stolice,"stolica kraju gwinea bissau | jaka jest stolica kraju gwinea bissau | państwo: gwinea bissau, stolica? | gwinea bissau - stolica | podaj stolicę kraju gwinea bissau",Bissau.
+kontynenty,kontynent kraju gwinea bissau | na jakim kontynencie leży gwinea bissau | gdzie leży gwinea bissau | gwinea bissau - kontynent | podaj kontynent kraju gwinea bissau,Afryka.
+stolice,"stolica kraju gwinea równikowa | jaka jest stolica kraju gwinea równikowa | państwo: gwinea równikowa, stolica? | gwinea równikowa - stolica | podaj stolicę kraju gwinea równikowa",Ciudad de la Paz.
+kontynenty,kontynent kraju gwinea równikowa | na jakim kontynencie leży gwinea równikowa | gdzie leży gwinea równikowa | gwinea równikowa - kontynent | podaj kontynent kraju gwinea równikowa,Afryka.
+stolice,"stolica kraju grecja | jaka jest stolica kraju grecja | państwo: grecja, stolica? | grecja - stolica | podaj stolicę kraju grecja | stolica grecji | jaka jest stolica grecji | co jest stolicą grecji",Ateny.
+kontynenty,kontynent kraju grecja | na jakim kontynencie leży grecja | gdzie leży grecja | grecja - kontynent | podaj kontynent kraju grecja,Europa.
+stolice,"stolica kraju grenada | jaka jest stolica kraju grenada | państwo: grenada, stolica? | grenada - stolica | podaj stolicę kraju grenada",St. George's.
+kontynenty,kontynent kraju grenada | na jakim kontynencie leży grenada | gdzie leży grenada | grenada - kontynent | podaj kontynent kraju grenada,Ameryka Północna.
+stolice,"stolica kraju gwatemala | jaka jest stolica kraju gwatemala | państwo: gwatemala, stolica? | gwatemala - stolica | podaj stolicę kraju gwatemala",Guatemala City.
+kontynenty,kontynent kraju gwatemala | na jakim kontynencie leży gwatemala | gdzie leży gwatemala | gwatemala - kontynent | podaj kontynent kraju gwatemala,Ameryka Północna.
+stolice,"stolica kraju gujana | jaka jest stolica kraju gujana | państwo: gujana, stolica? | gujana - stolica | podaj stolicę kraju gujana",Georgetown.
+kontynenty,kontynent kraju gujana | na jakim kontynencie leży gujana | gdzie leży gujana | gujana - kontynent | podaj kontynent kraju gujana,Ameryka Południowa.
+stolice,"stolica kraju honduras | jaka jest stolica kraju honduras | państwo: honduras, stolica? | honduras - stolica | podaj stolicę kraju honduras",Tegucigalpa.
+kontynenty,kontynent kraju honduras | na jakim kontynencie leży honduras | gdzie leży honduras | honduras - kontynent | podaj kontynent kraju honduras,Ameryka Północna.
+stolice,"stolica kraju chorwacja | jaka jest stolica kraju chorwacja | państwo: chorwacja, stolica? | chorwacja - stolica | podaj stolicę kraju chorwacja | stolica chorwacji | jaka jest stolica chorwacji | co jest stolicą chorwacji",Zagreb.
+kontynenty,kontynent kraju chorwacja | na jakim kontynencie leży chorwacja | gdzie leży chorwacja | chorwacja - kontynent | podaj kontynent kraju chorwacja,Europa.
+stolice,"stolica kraju haiti | jaka jest stolica kraju haiti | państwo: haiti, stolica? | haiti - stolica | podaj stolicę kraju haiti",Port-au-Prince.
+kontynenty,kontynent kraju haiti | na jakim kontynencie leży haiti | gdzie leży haiti | haiti - kontynent | podaj kontynent kraju haiti,Ameryka Północna.
+stolice,"stolica kraju węgry | jaka jest stolica kraju węgry | państwo: węgry, stolica? | węgry - stolica | podaj stolicę kraju węgry | stolica węgier | jaka jest stolica węgier | co jest stolicą węgier",Budapeszt.
+kontynenty,kontynent kraju węgry | na jakim kontynencie leży węgry | gdzie leży węgry | węgry - kontynent | podaj kontynent kraju węgry,Europa.
+stolice,"stolica kraju indonezja | jaka jest stolica kraju indonezja | państwo: indonezja, stolica? | indonezja - stolica | podaj stolicę kraju indonezja",Jakarta.
+kontynenty,kontynent kraju indonezja | na jakim kontynencie leży indonezja | gdzie leży indonezja | indonezja - kontynent | podaj kontynent kraju indonezja,Azja.
+stolice,"stolica kraju indie | jaka jest stolica kraju indie | państwo: indie, stolica? | indie - stolica | podaj stolicę kraju indie | stolica indii | jaka jest stolica indii | co jest stolicą indii",New Delhi.
+kontynenty,kontynent kraju indie | na jakim kontynencie leży indie | gdzie leży indie | indie - kontynent | podaj kontynent kraju indie,Azja.
+stolice,"stolica kraju irlandia | jaka jest stolica kraju irlandia | państwo: irlandia, stolica? | irlandia - stolica | podaj stolicę kraju irlandia | stolica irlandii | jaka jest stolica irlandii | co jest stolicą irlandii",Dublin.
+kontynenty,kontynent kraju irlandia | na jakim kontynencie leży irlandia | gdzie leży irlandia | irlandia - kontynent | podaj kontynent kraju irlandia,Europa.
+stolice,"stolica kraju iran | jaka jest stolica kraju iran | państwo: iran, stolica? | iran - stolica | podaj stolicę kraju iran",Tehran.
+kontynenty,kontynent kraju iran | na jakim kontynencie leży iran | gdzie leży iran | iran - kontynent | podaj kontynent kraju iran,Azja.
+stolice,"stolica kraju irak | jaka jest stolica kraju irak | państwo: irak, stolica? | irak - stolica | podaj stolicę kraju irak",Baghdad.
+kontynenty,kontynent kraju irak | na jakim kontynencie leży irak | gdzie leży irak | irak - kontynent | podaj kontynent kraju irak,Azja.
+stolice,"stolica kraju islandia | jaka jest stolica kraju islandia | państwo: islandia, stolica? | islandia - stolica | podaj stolicę kraju islandia",Reykjavik.
+kontynenty,kontynent kraju islandia | na jakim kontynencie leży islandia | gdzie leży islandia | islandia - kontynent | podaj kontynent kraju islandia,Europa.
+stolice,"stolica kraju izrael | jaka jest stolica kraju izrael | państwo: izrael, stolica? | izrael - stolica | podaj stolicę kraju izrael",Jerusalem.
+kontynenty,kontynent kraju izrael | na jakim kontynencie leży izrael | gdzie leży izrael | izrael - kontynent | podaj kontynent kraju izrael,Azja.
+stolice,"stolica kraju włochy | jaka jest stolica kraju włochy | państwo: włochy, stolica? | włochy - stolica | podaj stolicę kraju włochy | stolica włoch | jaka jest stolica włoch | co jest stolicą włoch",Rzym.
+kontynenty,kontynent kraju włochy | na jakim kontynencie leży włochy | gdzie leży włochy | włochy - kontynent | podaj kontynent kraju włochy,Europa.
+stolice,"stolica kraju jamajka | jaka jest stolica kraju jamajka | państwo: jamajka, stolica? | jamajka - stolica | podaj stolicę kraju jamajka",Kingston.
+kontynenty,kontynent kraju jamajka | na jakim kontynencie leży jamajka | gdzie leży jamajka | jamajka - kontynent | podaj kontynent kraju jamajka,Ameryka Północna.
+stolice,"stolica kraju jordania | jaka jest stolica kraju jordania | państwo: jordania, stolica? | jordania - stolica | podaj stolicę kraju jordania",Amman.
+kontynenty,kontynent kraju jordania | na jakim kontynencie leży jordania | gdzie leży jordania | jordania - kontynent | podaj kontynent kraju jordania,Azja.
+stolice,"stolica kraju japonia | jaka jest stolica kraju japonia | państwo: japonia, stolica? | japonia - stolica | podaj stolicę kraju japonia | stolica japonii | jaka jest stolica japonii | co jest stolicą japonii",Tokio.
+kontynenty,kontynent kraju japonia | na jakim kontynencie leży japonia | gdzie leży japonia | japonia - kontynent | podaj kontynent kraju japonia,Azja.
+stolice,"stolica kraju kazachstan | jaka jest stolica kraju kazachstan | państwo: kazachstan, stolica? | kazachstan - stolica | podaj stolicę kraju kazachstan",Astana.
+kontynenty,kontynent kraju kazachstan | na jakim kontynencie leży kazachstan | gdzie leży kazachstan | kazachstan - kontynent | podaj kontynent kraju kazachstan,Azja.
+stolice,"stolica kraju kenia | jaka jest stolica kraju kenia | państwo: kenia, stolica? | kenia - stolica | podaj stolicę kraju kenia",Nairobi.
+kontynenty,kontynent kraju kenia | na jakim kontynencie leży kenia | gdzie leży kenia | kenia - kontynent | podaj kontynent kraju kenia,Afryka.
+stolice,"stolica kraju kirgistan | jaka jest stolica kraju kirgistan | państwo: kirgistan, stolica? | kirgistan - stolica | podaj stolicę kraju kirgistan",Bishkek.
+kontynenty,kontynent kraju kirgistan | na jakim kontynencie leży kirgistan | gdzie leży kirgistan | kirgistan - kontynent | podaj kontynent kraju kirgistan,Azja.
+stolice,"stolica kraju kambodża | jaka jest stolica kraju kambodża | państwo: kambodża, stolica? | kambodża - stolica | podaj stolicę kraju kambodża",Phnom Penh.
+kontynenty,kontynent kraju kambodża | na jakim kontynencie leży kambodża | gdzie leży kambodża | kambodża - kontynent | podaj kontynent kraju kambodża,Azja.
+stolice,"stolica kraju kiribati | jaka jest stolica kraju kiribati | państwo: kiribati, stolica? | kiribati - stolica | podaj stolicę kraju kiribati",South Tarawa.
+kontynenty,kontynent kraju kiribati | na jakim kontynencie leży kiribati | gdzie leży kiribati | kiribati - kontynent | podaj kontynent kraju kiribati,Oceania.
+stolice,"stolica kraju saint kitts i nevis | jaka jest stolica kraju saint kitts i nevis | państwo: saint kitts i nevis, stolica? | saint kitts i nevis - stolica | podaj stolicę kraju saint kitts i nevis",Basseterre.
+kontynenty,kontynent kraju saint kitts i nevis | na jakim kontynencie leży saint kitts i nevis | gdzie leży saint kitts i nevis | saint kitts i nevis - kontynent | podaj kontynent kraju saint kitts i nevis,Ameryka Północna.
+stolice,"stolica kraju korea południowa | jaka jest stolica kraju korea południowa | państwo: korea południowa, stolica? | korea południowa - stolica | podaj stolicę kraju korea południowa",Seoul.
+kontynenty,kontynent kraju korea południowa | na jakim kontynencie leży korea południowa | gdzie leży korea południowa | korea południowa - kontynent | podaj kontynent kraju korea południowa,Azja.
+stolice,"stolica kraju kuwejt | jaka jest stolica kraju kuwejt | państwo: kuwejt, stolica? | kuwejt - stolica | podaj stolicę kraju kuwejt",Kuwait City.
+kontynenty,kontynent kraju kuwejt | na jakim kontynencie leży kuwejt | gdzie leży kuwejt | kuwejt - kontynent | podaj kontynent kraju kuwejt,Azja.
+stolice,"stolica kraju laos | jaka jest stolica kraju laos | państwo: laos, stolica? | laos - stolica | podaj stolicę kraju laos",Vientiane.
+kontynenty,kontynent kraju laos | na jakim kontynencie leży laos | gdzie leży laos | laos - kontynent | podaj kontynent kraju laos,Azja.
+stolice,"stolica kraju liban | jaka jest stolica kraju liban | państwo: liban, stolica? | liban - stolica | podaj stolicę kraju liban",Beirut.
+kontynenty,kontynent kraju liban | na jakim kontynencie leży liban | gdzie leży liban | liban - kontynent | podaj kontynent kraju liban,Azja.
+stolice,"stolica kraju liberia | jaka jest stolica kraju liberia | państwo: liberia, stolica? | liberia - stolica | podaj stolicę kraju liberia",Monrovia.
+kontynenty,kontynent kraju liberia | na jakim kontynencie leży liberia | gdzie leży liberia | liberia - kontynent | podaj kontynent kraju liberia,Afryka.
+stolice,"stolica kraju libia | jaka jest stolica kraju libia | państwo: libia, stolica? | libia - stolica | podaj stolicę kraju libia",Tripoli.
+kontynenty,kontynent kraju libia | na jakim kontynencie leży libia | gdzie leży libia | libia - kontynent | podaj kontynent kraju libia,Afryka.
+stolice,"stolica kraju saint lucia | jaka jest stolica kraju saint lucia | państwo: saint lucia, stolica? | saint lucia - stolica | podaj stolicę kraju saint lucia",Castries.
+kontynenty,kontynent kraju saint lucia | na jakim kontynencie leży saint lucia | gdzie leży saint lucia | saint lucia - kontynent | podaj kontynent kraju saint lucia,Ameryka Północna.
+stolice,"stolica kraju liechtenstein | jaka jest stolica kraju liechtenstein | państwo: liechtenstein, stolica? | liechtenstein - stolica | podaj stolicę kraju liechtenstein",Vaduz.
+kontynenty,kontynent kraju liechtenstein | na jakim kontynencie leży liechtenstein | gdzie leży liechtenstein | liechtenstein - kontynent | podaj kontynent kraju liechtenstein,Europa.
+stolice,"stolica kraju sri lanka | jaka jest stolica kraju sri lanka | państwo: sri lanka, stolica? | sri lanka - stolica | podaj stolicę kraju sri lanka",Colombo.
+kontynenty,kontynent kraju sri lanka | na jakim kontynencie leży sri lanka | gdzie leży sri lanka | sri lanka - kontynent | podaj kontynent kraju sri lanka,Azja.
+stolice,"stolica kraju lesotho | jaka jest stolica kraju lesotho | państwo: lesotho, stolica? | lesotho - stolica | podaj stolicę kraju lesotho",Maseru.
+kontynenty,kontynent kraju lesotho | na jakim kontynencie leży lesotho | gdzie leży lesotho | lesotho - kontynent | podaj kontynent kraju lesotho,Afryka.
+stolice,"stolica kraju litwa | jaka jest stolica kraju litwa | państwo: litwa, stolica? | litwa - stolica | podaj stolicę kraju litwa | stolica litwy | jaka jest stolica litwy | co jest stolicą litwy",Wilno.
+kontynenty,kontynent kraju litwa | na jakim kontynencie leży litwa | gdzie leży litwa | litwa - kontynent | podaj kontynent kraju litwa,Europa.
+stolice,"stolica kraju luksemburg | jaka jest stolica kraju luksemburg | państwo: luksemburg, stolica? | luksemburg - stolica | podaj stolicę kraju luksemburg",Luksemburg.
+kontynenty,kontynent kraju luksemburg | na jakim kontynencie leży luksemburg | gdzie leży luksemburg | luksemburg - kontynent | podaj kontynent kraju luksemburg,Europa.
+stolice,"stolica kraju łotwa | jaka jest stolica kraju łotwa | państwo: łotwa, stolica? | łotwa - stolica | podaj stolicę kraju łotwa | stolica łotwy | jaka jest stolica łotwy | co jest stolicą łotwy",Ryga.
+kontynenty,kontynent kraju łotwa | na jakim kontynencie leży łotwa | gdzie leży łotwa | łotwa - kontynent | podaj kontynent kraju łotwa,Europa.
+stolice,"stolica kraju maroko | jaka jest stolica kraju maroko | państwo: maroko, stolica? | maroko - stolica | podaj stolicę kraju maroko",Rabat.
+kontynenty,kontynent kraju maroko | na jakim kontynencie leży maroko | gdzie leży maroko | maroko - kontynent | podaj kontynent kraju maroko,Afryka.
+stolice,"stolica kraju monako | jaka jest stolica kraju monako | państwo: monako, stolica? | monako - stolica | podaj stolicę kraju monako",Monaco.
+kontynenty,kontynent kraju monako | na jakim kontynencie leży monako | gdzie leży monako | monako - kontynent | podaj kontynent kraju monako,Europa.
+stolice,"stolica kraju mołdawia | jaka jest stolica kraju mołdawia | państwo: mołdawia, stolica? | mołdawia - stolica | podaj stolicę kraju mołdawia",Chisinau.
+kontynenty,kontynent kraju mołdawia | na jakim kontynencie leży mołdawia | gdzie leży mołdawia | mołdawia - kontynent | podaj kontynent kraju mołdawia,Europa.
+stolice,"stolica kraju madagaskar | jaka jest stolica kraju madagaskar | państwo: madagaskar, stolica? | madagaskar - stolica | podaj stolicę kraju madagaskar",Antananarivo.
+kontynenty,kontynent kraju madagaskar | na jakim kontynencie leży madagaskar | gdzie leży madagaskar | madagaskar - kontynent | podaj kontynent kraju madagaskar,Afryka.
+stolice,"stolica kraju malediwy | jaka jest stolica kraju malediwy | państwo: malediwy, stolica? | malediwy - stolica | podaj stolicę kraju malediwy",Male.
+kontynenty,kontynent kraju malediwy | na jakim kontynencie leży malediwy | gdzie leży malediwy | malediwy - kontynent | podaj kontynent kraju malediwy,Azja.
+stolice,"stolica kraju meksyk | jaka jest stolica kraju meksyk | państwo: meksyk, stolica? | meksyk - stolica | podaj stolicę kraju meksyk",Mexico City.
+kontynenty,kontynent kraju meksyk | na jakim kontynencie leży meksyk | gdzie leży meksyk | meksyk - kontynent | podaj kontynent kraju meksyk,Ameryka Północna.
+stolice,"stolica kraju wyspy marshalla | jaka jest stolica kraju wyspy marshalla | państwo: wyspy marshalla, stolica? | wyspy marshalla - stolica | podaj stolicę kraju wyspy marshalla",Majuro.
+kontynenty,kontynent kraju wyspy marshalla | na jakim kontynencie leży wyspy marshalla | gdzie leży wyspy marshalla | wyspy marshalla - kontynent | podaj kontynent kraju wyspy marshalla,Oceania.
+stolice,"stolica kraju macedonia północna | jaka jest stolica kraju macedonia północna | państwo: macedonia północna, stolica? | macedonia północna - stolica | podaj stolicę kraju macedonia północna",Skopje.
+kontynenty,kontynent kraju macedonia północna | na jakim kontynencie leży macedonia północna | gdzie leży macedonia północna | macedonia północna - kontynent | podaj kontynent kraju macedonia północna,Europa.
+stolice,"stolica kraju mali | jaka jest stolica kraju mali | państwo: mali, stolica? | mali - stolica | podaj stolicę kraju mali",Bamako.
+kontynenty,kontynent kraju mali | na jakim kontynencie leży mali | gdzie leży mali | mali - kontynent | podaj kontynent kraju mali,Afryka.
+stolice,"stolica kraju malta | jaka jest stolica kraju malta | państwo: malta, stolica? | malta - stolica | podaj stolicę kraju malta",Valletta.
+kontynenty,kontynent kraju malta | na jakim kontynencie leży malta | gdzie leży malta | malta - kontynent | podaj kontynent kraju malta,Europa.
+stolice,"stolica kraju mjanma | jaka jest stolica kraju mjanma | państwo: mjanma, stolica? | mjanma - stolica | podaj stolicę kraju mjanma",Naypyidaw.
+kontynenty,kontynent kraju mjanma | na jakim kontynencie leży mjanma | gdzie leży mjanma | mjanma - kontynent | podaj kontynent kraju mjanma,Azja.
+stolice,"stolica kraju czarnogóra | jaka jest stolica kraju czarnogóra | państwo: czarnogóra, stolica? | czarnogóra - stolica | podaj stolicę kraju czarnogóra",Podgorica.
+kontynenty,kontynent kraju czarnogóra | na jakim kontynencie leży czarnogóra | gdzie leży czarnogóra | czarnogóra - kontynent | podaj kontynent kraju czarnogóra,Europa.
+stolice,"stolica kraju mongolia | jaka jest stolica kraju mongolia | państwo: mongolia, stolica? | mongolia - stolica | podaj stolicę kraju mongolia",Ulan Bator.
+kontynenty,kontynent kraju mongolia | na jakim kontynencie leży mongolia | gdzie leży mongolia | mongolia - kontynent | podaj kontynent kraju mongolia,Azja.
+stolice,"stolica kraju mozambik | jaka jest stolica kraju mozambik | państwo: mozambik, stolica? | mozambik - stolica | podaj stolicę kraju mozambik",Maputo.
+kontynenty,kontynent kraju mozambik | na jakim kontynencie leży mozambik | gdzie leży mozambik | mozambik - kontynent | podaj kontynent kraju mozambik,Afryka.
+stolice,"stolica kraju mauretania | jaka jest stolica kraju mauretania | państwo: mauretania, stolica? | mauretania - stolica | podaj stolicę kraju mauretania",Nouakchott.
+kontynenty,kontynent kraju mauretania | na jakim kontynencie leży mauretania | gdzie leży mauretania | mauretania - kontynent | podaj kontynent kraju mauretania,Afryka.
+stolice,"stolica kraju mauritius | jaka jest stolica kraju mauritius | państwo: mauritius, stolica? | mauritius - stolica | podaj stolicę kraju mauritius",Port Louis.
+kontynenty,kontynent kraju mauritius | na jakim kontynencie leży mauritius | gdzie leży mauritius | mauritius - kontynent | podaj kontynent kraju mauritius,Afryka.
+stolice,"stolica kraju malawi | jaka jest stolica kraju malawi | państwo: malawi, stolica? | malawi - stolica | podaj stolicę kraju malawi",Lilongwe.
+kontynenty,kontynent kraju malawi | na jakim kontynencie leży malawi | gdzie leży malawi | malawi - kontynent | podaj kontynent kraju malawi,Afryka.
+stolice,"stolica kraju malezja | jaka jest stolica kraju malezja | państwo: malezja, stolica? | malezja - stolica | podaj stolicę kraju malezja",Kuala Lumpur.
+kontynenty,kontynent kraju malezja | na jakim kontynencie leży malezja | gdzie leży malezja | malezja - kontynent | podaj kontynent kraju malezja,Azja.
+stolice,"stolica kraju namibia | jaka jest stolica kraju namibia | państwo: namibia, stolica? | namibia - stolica | podaj stolicę kraju namibia",Windhoek.
+kontynenty,kontynent kraju namibia | na jakim kontynencie leży namibia | gdzie leży namibia | namibia - kontynent | podaj kontynent kraju namibia,Afryka.
+stolice,"stolica kraju niger | jaka jest stolica kraju niger | państwo: niger, stolica? | niger - stolica | podaj stolicę kraju niger",Niamey.
+kontynenty,kontynent kraju niger | na jakim kontynencie leży niger | gdzie leży niger | niger - kontynent | podaj kontynent kraju niger,Afryka.
+stolice,"stolica kraju nigeria | jaka jest stolica kraju nigeria | państwo: nigeria, stolica? | nigeria - stolica | podaj stolicę kraju nigeria",Abuja.
+kontynenty,kontynent kraju nigeria | na jakim kontynencie leży nigeria | gdzie leży nigeria | nigeria - kontynent | podaj kontynent kraju nigeria,Afryka.
+stolice,"stolica kraju nikaragua | jaka jest stolica kraju nikaragua | państwo: nikaragua, stolica? | nikaragua - stolica | podaj stolicę kraju nikaragua",Managua.
+kontynenty,kontynent kraju nikaragua | na jakim kontynencie leży nikaragua | gdzie leży nikaragua | nikaragua - kontynent | podaj kontynent kraju nikaragua,Ameryka Północna.
+stolice,"stolica kraju holandia | jaka jest stolica kraju holandia | państwo: holandia, stolica? | holandia - stolica | podaj stolicę kraju holandia | stolica holandii | jaka jest stolica holandii | co jest stolicą holandii",Amsterdam.
+kontynenty,kontynent kraju holandia | na jakim kontynencie leży holandia | gdzie leży holandia | holandia - kontynent | podaj kontynent kraju holandia,Europa.
+stolice,"stolica kraju norwegia | jaka jest stolica kraju norwegia | państwo: norwegia, stolica? | norwegia - stolica | podaj stolicę kraju norwegia | stolica norwegii | jaka jest stolica norwegii | co jest stolicą norwegii",Oslo.
+kontynenty,kontynent kraju norwegia | na jakim kontynencie leży norwegia | gdzie leży norwegia | norwegia - kontynent | podaj kontynent kraju norwegia,Europa.
+stolice,"stolica kraju nepal | jaka jest stolica kraju nepal | państwo: nepal, stolica? | nepal - stolica | podaj stolicę kraju nepal",Kathmandu.
+kontynenty,kontynent kraju nepal | na jakim kontynencie leży nepal | gdzie leży nepal | nepal - kontynent | podaj kontynent kraju nepal,Azja.
+stolice,"stolica kraju nauru | jaka jest stolica kraju nauru | państwo: nauru, stolica? | nauru - stolica | podaj stolicę kraju nauru",Yaren.
+kontynenty,kontynent kraju nauru | na jakim kontynencie leży nauru | gdzie leży nauru | nauru - kontynent | podaj kontynent kraju nauru,Oceania.
+stolice,"stolica kraju nowa zelandia | jaka jest stolica kraju nowa zelandia | państwo: nowa zelandia, stolica? | nowa zelandia - stolica | podaj stolicę kraju nowa zelandia",Wellington.
+kontynenty,kontynent kraju nowa zelandia | na jakim kontynencie leży nowa zelandia | gdzie leży nowa zelandia | nowa zelandia - kontynent | podaj kontynent kraju nowa zelandia,Oceania.
+stolice,"stolica kraju oman | jaka jest stolica kraju oman | państwo: oman, stolica? | oman - stolica | podaj stolicę kraju oman",Muscat.
+kontynenty,kontynent kraju oman | na jakim kontynencie leży oman | gdzie leży oman | oman - kontynent | podaj kontynent kraju oman,Azja.
+stolice,"stolica kraju pakistan | jaka jest stolica kraju pakistan | państwo: pakistan, stolica? | pakistan - stolica | podaj stolicę kraju pakistan",Islamabad.
+kontynenty,kontynent kraju pakistan | na jakim kontynencie leży pakistan | gdzie leży pakistan | pakistan - kontynent | podaj kontynent kraju pakistan,Azja.
+stolice,"stolica kraju panama | jaka jest stolica kraju panama | państwo: panama, stolica? | panama - stolica | podaj stolicę kraju panama",Panama City.
+kontynenty,kontynent kraju panama | na jakim kontynencie leży panama | gdzie leży panama | panama - kontynent | podaj kontynent kraju panama,Ameryka Północna.
+stolice,"stolica kraju peru | jaka jest stolica kraju peru | państwo: peru, stolica? | peru - stolica | podaj stolicę kraju peru",Lima.
+kontynenty,kontynent kraju peru | na jakim kontynencie leży peru | gdzie leży peru | peru - kontynent | podaj kontynent kraju peru,Ameryka Południowa.
+stolice,"stolica kraju filipiny | jaka jest stolica kraju filipiny | państwo: filipiny, stolica? | filipiny - stolica | podaj stolicę kraju filipiny",Manila.
+kontynenty,kontynent kraju filipiny | na jakim kontynencie leży filipiny | gdzie leży filipiny | filipiny - kontynent | podaj kontynent kraju filipiny,Azja.
+stolice,"stolica kraju palau | jaka jest stolica kraju palau | państwo: palau, stolica? | palau - stolica | podaj stolicę kraju palau",Ngerulmud.
+kontynenty,kontynent kraju palau | na jakim kontynencie leży palau | gdzie leży palau | palau - kontynent | podaj kontynent kraju palau,Oceania.
+stolice,"stolica kraju papua-nowa gwinea | jaka jest stolica kraju papua-nowa gwinea | państwo: papua-nowa gwinea, stolica? | papua-nowa gwinea - stolica | podaj stolicę kraju papua-nowa gwinea",Port Moresby.
+kontynenty,kontynent kraju papua-nowa gwinea | na jakim kontynencie leży papua-nowa gwinea | gdzie leży papua-nowa gwinea | papua-nowa gwinea - kontynent | podaj kontynent kraju papua-nowa gwinea,Oceania.
+stolice,"stolica kraju polska | jaka jest stolica kraju polska | państwo: polska, stolica? | polska - stolica | podaj stolicę kraju polska | stolica polski | jaka jest stolica polski | co jest stolicą polski",Warszawa.
+kontynenty,kontynent kraju polska | na jakim kontynencie leży polska | gdzie leży polska | polska - kontynent | podaj kontynent kraju polska,Europa.
+stolice,"stolica kraju korea północna | jaka jest stolica kraju korea północna | państwo: korea północna, stolica? | korea północna - stolica | podaj stolicę kraju korea północna",Pyongyang.
+kontynenty,kontynent kraju korea północna | na jakim kontynencie leży korea północna | gdzie leży korea północna | korea północna - kontynent | podaj kontynent kraju korea północna,Azja.
+stolice,"stolica kraju portugalia | jaka jest stolica kraju portugalia | państwo: portugalia, stolica? | portugalia - stolica | podaj stolicę kraju portugalia | stolica portugalii | jaka jest stolica portugalii | co jest stolicą portugalii",Lizbona.
+kontynenty,kontynent kraju portugalia | na jakim kontynencie leży portugalia | gdzie leży portugalia | portugalia - kontynent | podaj kontynent kraju portugalia,Europa.
+stolice,"stolica kraju paragwaj | jaka jest stolica kraju paragwaj | państwo: paragwaj, stolica? | paragwaj - stolica | podaj stolicę kraju paragwaj",Asuncion.
+kontynenty,kontynent kraju paragwaj | na jakim kontynencie leży paragwaj | gdzie leży paragwaj | paragwaj - kontynent | podaj kontynent kraju paragwaj,Ameryka Południowa.
+stolice,"stolica kraju katar | jaka jest stolica kraju katar | państwo: katar, stolica? | katar - stolica | podaj stolicę kraju katar",Doha.
+kontynenty,kontynent kraju katar | na jakim kontynencie leży katar | gdzie leży katar | katar - kontynent | podaj kontynent kraju katar,Azja.
+stolice,"stolica kraju rumunia | jaka jest stolica kraju rumunia | państwo: rumunia, stolica? | rumunia - stolica | podaj stolicę kraju rumunia | stolica rumunii | jaka jest stolica rumunii | co jest stolicą rumunii",Bukareszt.
+kontynenty,kontynent kraju rumunia | na jakim kontynencie leży rumunia | gdzie leży rumunia | rumunia - kontynent | podaj kontynent kraju rumunia,Europa.
+stolice,"stolica kraju rosja | jaka jest stolica kraju rosja | państwo: rosja, stolica? | rosja - stolica | podaj stolicę kraju rosja | stolica rosji | jaka jest stolica rosji | co jest stolicą rosji",Moskwa.
+kontynenty,kontynent kraju rosja | na jakim kontynencie leży rosja | gdzie leży rosja | rosja - kontynent | podaj kontynent kraju rosja,Europa.
+stolice,"stolica kraju rwanda | jaka jest stolica kraju rwanda | państwo: rwanda, stolica? | rwanda - stolica | podaj stolicę kraju rwanda",Kigali.
+kontynenty,kontynent kraju rwanda | na jakim kontynencie leży rwanda | gdzie leży rwanda | rwanda - kontynent | podaj kontynent kraju rwanda,Afryka.
+stolice,"stolica kraju arabia saudyjska | jaka jest stolica kraju arabia saudyjska | państwo: arabia saudyjska, stolica? | arabia saudyjska - stolica | podaj stolicę kraju arabia saudyjska",Riyadh.
+kontynenty,kontynent kraju arabia saudyjska | na jakim kontynencie leży arabia saudyjska | gdzie leży arabia saudyjska | arabia saudyjska - kontynent | podaj kontynent kraju arabia saudyjska,Azja.
+stolice,"stolica kraju sudan | jaka jest stolica kraju sudan | państwo: sudan, stolica? | sudan - stolica | podaj stolicę kraju sudan",Khartoum.
+kontynenty,kontynent kraju sudan | na jakim kontynencie leży sudan | gdzie leży sudan | sudan - kontynent | podaj kontynent kraju sudan,Afryka.
+stolice,"stolica kraju senegal | jaka jest stolica kraju senegal | państwo: senegal, stolica? | senegal - stolica | podaj stolicę kraju senegal",Dakar.
+kontynenty,kontynent kraju senegal | na jakim kontynencie leży senegal | gdzie leży senegal | senegal - kontynent | podaj kontynent kraju senegal,Afryka.
+stolice,"stolica kraju singapur | jaka jest stolica kraju singapur | państwo: singapur, stolica? | singapur - stolica | podaj stolicę kraju singapur",Singapore.
+kontynenty,kontynent kraju singapur | na jakim kontynencie leży singapur | gdzie leży singapur | singapur - kontynent | podaj kontynent kraju singapur,Azja.
+stolice,"stolica kraju wyspy salomona | jaka jest stolica kraju wyspy salomona | państwo: wyspy salomona, stolica? | wyspy salomona - stolica | podaj stolicę kraju wyspy salomona",Honiara.
+kontynenty,kontynent kraju wyspy salomona | na jakim kontynencie leży wyspy salomona | gdzie leży wyspy salomona | wyspy salomona - kontynent | podaj kontynent kraju wyspy salomona,Oceania.
+stolice,"stolica kraju sierra leone | jaka jest stolica kraju sierra leone | państwo: sierra leone, stolica? | sierra leone - stolica | podaj stolicę kraju sierra leone",Freetown.
+kontynenty,kontynent kraju sierra leone | na jakim kontynencie leży sierra leone | gdzie leży sierra leone | sierra leone - kontynent | podaj kontynent kraju sierra leone,Afryka.
+stolice,"stolica kraju salwador | jaka jest stolica kraju salwador | państwo: salwador, stolica? | salwador - stolica | podaj stolicę kraju salwador",San Salvador.
+kontynenty,kontynent kraju salwador | na jakim kontynencie leży salwador | gdzie leży salwador | salwador - kontynent | podaj kontynent kraju salwador,Ameryka Północna.
+stolice,"stolica kraju san marino | jaka jest stolica kraju san marino | państwo: san marino, stolica? | san marino - stolica | podaj stolicę kraju san marino",City of San Marino.
+kontynenty,kontynent kraju san marino | na jakim kontynencie leży san marino | gdzie leży san marino | san marino - kontynent | podaj kontynent kraju san marino,Europa.
+stolice,"stolica kraju somalia | jaka jest stolica kraju somalia | państwo: somalia, stolica? | somalia - stolica | podaj stolicę kraju somalia",Mogadishu.
+kontynenty,kontynent kraju somalia | na jakim kontynencie leży somalia | gdzie leży somalia | somalia - kontynent | podaj kontynent kraju somalia,Afryka.
+stolice,"stolica kraju serbia | jaka jest stolica kraju serbia | państwo: serbia, stolica? | serbia - stolica | podaj stolicę kraju serbia | stolica serbii | jaka jest stolica serbii | co jest stolicą serbii",Belgrad.
+kontynenty,kontynent kraju serbia | na jakim kontynencie leży serbia | gdzie leży serbia | serbia - kontynent | podaj kontynent kraju serbia,Europa.
+stolice,"stolica kraju sudan południowy | jaka jest stolica kraju sudan południowy | państwo: sudan południowy, stolica? | sudan południowy - stolica | podaj stolicę kraju sudan południowy",Juba.
+kontynenty,kontynent kraju sudan południowy | na jakim kontynencie leży sudan południowy | gdzie leży sudan południowy | sudan południowy - kontynent | podaj kontynent kraju sudan południowy,Afryka.
+stolice,"stolica kraju surinam | jaka jest stolica kraju surinam | państwo: surinam, stolica? | surinam - stolica | podaj stolicę kraju surinam",Paramaribo.
+kontynenty,kontynent kraju surinam | na jakim kontynencie leży surinam | gdzie leży surinam | surinam - kontynent | podaj kontynent kraju surinam,Ameryka Południowa.
+stolice,"stolica kraju słowacja | jaka jest stolica kraju słowacja | państwo: słowacja, stolica? | słowacja - stolica | podaj stolicę kraju słowacja | stolica słowacji | jaka jest stolica słowacji | co jest stolicą słowacji",Bratislava.
+kontynenty,kontynent kraju słowacja | na jakim kontynencie leży słowacja | gdzie leży słowacja | słowacja - kontynent | podaj kontynent kraju słowacja,Europa.
+stolice,"stolica kraju słowenia | jaka jest stolica kraju słowenia | państwo: słowenia, stolica? | słowenia - stolica | podaj stolicę kraju słowenia | stolica słowenii | jaka jest stolica słowenii | co jest stolicą słowenii",Ljubljana.
+kontynenty,kontynent kraju słowenia | na jakim kontynencie leży słowenia | gdzie leży słowenia | słowenia - kontynent | podaj kontynent kraju słowenia,Europa.
+stolice,"stolica kraju szwecja | jaka jest stolica kraju szwecja | państwo: szwecja, stolica? | szwecja - stolica | podaj stolicę kraju szwecja | stolica szwecji | jaka jest stolica szwecji | co jest stolicą szwecji",Sztokholm.
+kontynenty,kontynent kraju szwecja | na jakim kontynencie leży szwecja | gdzie leży szwecja | szwecja - kontynent | podaj kontynent kraju szwecja,Europa.
+stolice,"stolica kraju eswatini | jaka jest stolica kraju eswatini | państwo: eswatini, stolica? | eswatini - stolica | podaj stolicę kraju eswatini",Lobamba.
+kontynenty,kontynent kraju eswatini | na jakim kontynencie leży eswatini | gdzie leży eswatini | eswatini - kontynent | podaj kontynent kraju eswatini,Afryka.
+stolice,"stolica kraju seszele | jaka jest stolica kraju seszele | państwo: seszele, stolica? | seszele - stolica | podaj stolicę kraju seszele",Victoria.
+kontynenty,kontynent kraju seszele | na jakim kontynencie leży seszele | gdzie leży seszele | seszele - kontynent | podaj kontynent kraju seszele,Afryka.
+stolice,"stolica kraju syria | jaka jest stolica kraju syria | państwo: syria, stolica? | syria - stolica | podaj stolicę kraju syria",Damascus.
+kontynenty,kontynent kraju syria | na jakim kontynencie leży syria | gdzie leży syria | syria - kontynent | podaj kontynent kraju syria,Azja.
+stolice,"stolica kraju czad | jaka jest stolica kraju czad | państwo: czad, stolica? | czad - stolica | podaj stolicę kraju czad",N'Djamena.
+kontynenty,kontynent kraju czad | na jakim kontynencie leży czad | gdzie leży czad | czad - kontynent | podaj kontynent kraju czad,Afryka.
+stolice,"stolica kraju togo | jaka jest stolica kraju togo | państwo: togo, stolica? | togo - stolica | podaj stolicę kraju togo",Lome.
+kontynenty,kontynent kraju togo | na jakim kontynencie leży togo | gdzie leży togo | togo - kontynent | podaj kontynent kraju togo,Afryka.
+stolice,"stolica kraju tajlandia | jaka jest stolica kraju tajlandia | państwo: tajlandia, stolica? | tajlandia - stolica | podaj stolicę kraju tajlandia",Bangkok.
+kontynenty,kontynent kraju tajlandia | na jakim kontynencie leży tajlandia | gdzie leży tajlandia | tajlandia - kontynent | podaj kontynent kraju tajlandia,Azja.
+stolice,"stolica kraju tadżykistan | jaka jest stolica kraju tadżykistan | państwo: tadżykistan, stolica? | tadżykistan - stolica | podaj stolicę kraju tadżykistan",Dushanbe.
+kontynenty,kontynent kraju tadżykistan | na jakim kontynencie leży tadżykistan | gdzie leży tadżykistan | tadżykistan - kontynent | podaj kontynent kraju tadżykistan,Azja.
+stolice,"stolica kraju turkmenistan | jaka jest stolica kraju turkmenistan | państwo: turkmenistan, stolica? | turkmenistan - stolica | podaj stolicę kraju turkmenistan",Ashgabat.
+kontynenty,kontynent kraju turkmenistan | na jakim kontynencie leży turkmenistan | gdzie leży turkmenistan | turkmenistan - kontynent | podaj kontynent kraju turkmenistan,Azja.
+stolice,"stolica kraju timor wschodni | jaka jest stolica kraju timor wschodni | państwo: timor wschodni, stolica? | timor wschodni - stolica | podaj stolicę kraju timor wschodni",Dili.
+kontynenty,kontynent kraju timor wschodni | na jakim kontynencie leży timor wschodni | gdzie leży timor wschodni | timor wschodni - kontynent | podaj kontynent kraju timor wschodni,Azja.
+stolice,"stolica kraju tonga | jaka jest stolica kraju tonga | państwo: tonga, stolica? | tonga - stolica | podaj stolicę kraju tonga",Nuku'alofa.
+kontynenty,kontynent kraju tonga | na jakim kontynencie leży tonga | gdzie leży tonga | tonga - kontynent | podaj kontynent kraju tonga,Oceania.
+stolice,"stolica kraju trynidad i tobago | jaka jest stolica kraju trynidad i tobago | państwo: trynidad i tobago, stolica? | trynidad i tobago - stolica | podaj stolicę kraju trynidad i tobago",Port of Spain.
+kontynenty,kontynent kraju trynidad i tobago | na jakim kontynencie leży trynidad i tobago | gdzie leży trynidad i tobago | trynidad i tobago - kontynent | podaj kontynent kraju trynidad i tobago,Ameryka Północna.
+stolice,"stolica kraju tunezja | jaka jest stolica kraju tunezja | państwo: tunezja, stolica? | tunezja - stolica | podaj stolicę kraju tunezja",Tunis.
+kontynenty,kontynent kraju tunezja | na jakim kontynencie leży tunezja | gdzie leży tunezja | tunezja - kontynent | podaj kontynent kraju tunezja,Afryka.
+stolice,"stolica kraju turcja | jaka jest stolica kraju turcja | państwo: turcja, stolica? | turcja - stolica | podaj stolicę kraju turcja | stolica turcji | jaka jest stolica turcji | co jest stolicą turcji",Ankara.
+kontynenty,kontynent kraju turcja | na jakim kontynencie leży turcja | gdzie leży turcja | turcja - kontynent | podaj kontynent kraju turcja,Azja.
+stolice,"stolica kraju tuvalu | jaka jest stolica kraju tuvalu | państwo: tuvalu, stolica? | tuvalu - stolica | podaj stolicę kraju tuvalu",Funafuti.
+kontynenty,kontynent kraju tuvalu | na jakim kontynencie leży tuvalu | gdzie leży tuvalu | tuvalu - kontynent | podaj kontynent kraju tuvalu,Oceania.
+stolice,"stolica kraju tanzania | jaka jest stolica kraju tanzania | państwo: tanzania, stolica? | tanzania - stolica | podaj stolicę kraju tanzania",Dodoma.
+kontynenty,kontynent kraju tanzania | na jakim kontynencie leży tanzania | gdzie leży tanzania | tanzania - kontynent | podaj kontynent kraju tanzania,Afryka.
+stolice,"stolica kraju uganda | jaka jest stolica kraju uganda | państwo: uganda, stolica? | uganda - stolica | podaj stolicę kraju uganda",Kampala.
+kontynenty,kontynent kraju uganda | na jakim kontynencie leży uganda | gdzie leży uganda | uganda - kontynent | podaj kontynent kraju uganda,Afryka.
+stolice,"stolica kraju ukraina | jaka jest stolica kraju ukraina | państwo: ukraina, stolica? | ukraina - stolica | podaj stolicę kraju ukraina | stolica ukrainy | jaka jest stolica ukrainy | co jest stolicą ukrainy",Kijów.
+kontynenty,kontynent kraju ukraina | na jakim kontynencie leży ukraina | gdzie leży ukraina | ukraina - kontynent | podaj kontynent kraju ukraina,Europa.
+stolice,"stolica kraju urugwaj | jaka jest stolica kraju urugwaj | państwo: urugwaj, stolica? | urugwaj - stolica | podaj stolicę kraju urugwaj",Montevideo.
+kontynenty,kontynent kraju urugwaj | na jakim kontynencie leży urugwaj | gdzie leży urugwaj | urugwaj - kontynent | podaj kontynent kraju urugwaj,Ameryka Południowa.
+stolice,"stolica kraju stany zjednoczone | jaka jest stolica kraju stany zjednoczone | państwo: stany zjednoczone, stolica? | stany zjednoczone - stolica | podaj stolicę kraju stany zjednoczone | stolica stanów zjednoczonych | jaka jest stolica stanów zjednoczonych | co jest stolicą stanów zjednoczonych",Washington D.C..
+kontynenty,kontynent kraju stany zjednoczone | na jakim kontynencie leży stany zjednoczone | gdzie leży stany zjednoczone | stany zjednoczone - kontynent | podaj kontynent kraju stany zjednoczone,Ameryka Północna.
+stolice,"stolica kraju uzbekistan | jaka jest stolica kraju uzbekistan | państwo: uzbekistan, stolica? | uzbekistan - stolica | podaj stolicę kraju uzbekistan",Tashkent.
+kontynenty,kontynent kraju uzbekistan | na jakim kontynencie leży uzbekistan | gdzie leży uzbekistan | uzbekistan - kontynent | podaj kontynent kraju uzbekistan,Azja.
+stolice,"stolica kraju watykan | jaka jest stolica kraju watykan | państwo: watykan, stolica? | watykan - stolica | podaj stolicę kraju watykan",Watykan.
+kontynenty,kontynent kraju watykan | na jakim kontynencie leży watykan | gdzie leży watykan | watykan - kontynent | podaj kontynent kraju watykan,Europa.
+stolice,"stolica kraju saint vincent i grenadyny | jaka jest stolica kraju saint vincent i grenadyny | państwo: saint vincent i grenadyny, stolica? | saint vincent i grenadyny - stolica | podaj stolicę kraju saint vincent i grenadyny",Kingstown.
+kontynenty,kontynent kraju saint vincent i grenadyny | na jakim kontynencie leży saint vincent i grenadyny | gdzie leży saint vincent i grenadyny | saint vincent i grenadyny - kontynent | podaj kontynent kraju saint vincent i grenadyny,Ameryka Północna.
+stolice,"stolica kraju wenezuela | jaka jest stolica kraju wenezuela | państwo: wenezuela, stolica? | wenezuela - stolica | podaj stolicę kraju wenezuela",Caracas.
+kontynenty,kontynent kraju wenezuela | na jakim kontynencie leży wenezuela | gdzie leży wenezuela | wenezuela - kontynent | podaj kontynent kraju wenezuela,Ameryka Południowa.
+stolice,"stolica kraju wietnam | jaka jest stolica kraju wietnam | państwo: wietnam, stolica? | wietnam - stolica | podaj stolicę kraju wietnam",Hanoi.
+kontynenty,kontynent kraju wietnam | na jakim kontynencie leży wietnam | gdzie leży wietnam | wietnam - kontynent | podaj kontynent kraju wietnam,Azja.
+stolice,"stolica kraju vanuatu | jaka jest stolica kraju vanuatu | państwo: vanuatu, stolica? | vanuatu - stolica | podaj stolicę kraju vanuatu",Port Vila.
+kontynenty,kontynent kraju vanuatu | na jakim kontynencie leży vanuatu | gdzie leży vanuatu | vanuatu - kontynent | podaj kontynent kraju vanuatu,Oceania.
+stolice,"stolica kraju samoa | jaka jest stolica kraju samoa | państwo: samoa, stolica? | samoa - stolica | podaj stolicę kraju samoa",Apia.
+kontynenty,kontynent kraju samoa | na jakim kontynencie leży samoa | gdzie leży samoa | samoa - kontynent | podaj kontynent kraju samoa,Oceania.
+stolice,"stolica kraju jemen | jaka jest stolica kraju jemen | państwo: jemen, stolica? | jemen - stolica | podaj stolicę kraju jemen",Sana'a.
+kontynenty,kontynent kraju jemen | na jakim kontynencie leży jemen | gdzie leży jemen | jemen - kontynent | podaj kontynent kraju jemen,Azja.
+stolice,"stolica kraju południowa afryka | jaka jest stolica kraju południowa afryka | państwo: południowa afryka, stolica? | południowa afryka - stolica | podaj stolicę kraju południowa afryka",Pretoria.
+kontynenty,kontynent kraju południowa afryka | na jakim kontynencie leży południowa afryka | gdzie leży południowa afryka | południowa afryka - kontynent | podaj kontynent kraju południowa afryka,Afryka.
+stolice,"stolica kraju zambia | jaka jest stolica kraju zambia | państwo: zambia, stolica? | zambia - stolica | podaj stolicę kraju zambia",Lusaka.
+kontynenty,kontynent kraju zambia | na jakim kontynencie leży zambia | gdzie leży zambia | zambia - kontynent | podaj kontynent kraju zambia,Afryka.
+stolice,"stolica kraju zimbabwe | jaka jest stolica kraju zimbabwe | państwo: zimbabwe, stolica? | zimbabwe - stolica | podaj stolicę kraju zimbabwe",Harare.
+kontynenty,kontynent kraju zimbabwe | na jakim kontynencie leży zimbabwe | gdzie leży zimbabwe | zimbabwe - kontynent | podaj kontynent kraju zimbabwe,Afryka.
+chemia,symbol pierwiastka wodór | jaki symbol ma wodór | wodór - symbol | podaj symbol: wodór,H.
+chemia,liczba atomowa: wodór | jaką liczbę atomową ma wodór | wodór - liczba atomowa | ile protonów ma wodór,1.
+chemia,jaki pierwiastek ma symbol h | co oznacza symbol h | pierwiastek o symbolu h | symbol h to,Wodór.
+chemia,jaki pierwiastek ma liczbę atomową 1 | pierwiastek numer 1 | liczba atomowa 1 oznacza | podaj pierwiastek o numerze 1,Wodór.
+chemia,symbol pierwiastka hel | jaki symbol ma hel | hel - symbol | podaj symbol: hel,He.
+chemia,liczba atomowa: hel | jaką liczbę atomową ma hel | hel - liczba atomowa | ile protonów ma hel,2.
+chemia,jaki pierwiastek ma symbol he | co oznacza symbol he | pierwiastek o symbolu he | symbol he to,Hel.
+chemia,jaki pierwiastek ma liczbę atomową 2 | pierwiastek numer 2 | liczba atomowa 2 oznacza | podaj pierwiastek o numerze 2,Hel.
+chemia,symbol pierwiastka lit | jaki symbol ma lit | lit - symbol | podaj symbol: lit,Li.
+chemia,liczba atomowa: lit | jaką liczbę atomową ma lit | lit - liczba atomowa | ile protonów ma lit,3.
+chemia,jaki pierwiastek ma symbol li | co oznacza symbol li | pierwiastek o symbolu li | symbol li to,Lit.
+chemia,jaki pierwiastek ma liczbę atomową 3 | pierwiastek numer 3 | liczba atomowa 3 oznacza | podaj pierwiastek o numerze 3,Lit.
+chemia,symbol pierwiastka beryl | jaki symbol ma beryl | beryl - symbol | podaj symbol: beryl,Be.
+chemia,liczba atomowa: beryl | jaką liczbę atomową ma beryl | beryl - liczba atomowa | ile protonów ma beryl,4.
+chemia,jaki pierwiastek ma symbol be | co oznacza symbol be | pierwiastek o symbolu be | symbol be to,Beryl.
+chemia,jaki pierwiastek ma liczbę atomową 4 | pierwiastek numer 4 | liczba atomowa 4 oznacza | podaj pierwiastek o numerze 4,Beryl.
+chemia,symbol pierwiastka bor | jaki symbol ma bor | bor - symbol | podaj symbol: bor,B.
+chemia,liczba atomowa: bor | jaką liczbę atomową ma bor | bor - liczba atomowa | ile protonów ma bor,5.
+chemia,jaki pierwiastek ma symbol b | co oznacza symbol b | pierwiastek o symbolu b | symbol b to,Bor.
+chemia,jaki pierwiastek ma liczbę atomową 5 | pierwiastek numer 5 | liczba atomowa 5 oznacza | podaj pierwiastek o numerze 5,Bor.
+chemia,symbol pierwiastka węgiel | jaki symbol ma węgiel | węgiel - symbol | podaj symbol: węgiel,C.
+chemia,liczba atomowa: węgiel | jaką liczbę atomową ma węgiel | węgiel - liczba atomowa | ile protonów ma węgiel,6.
+chemia,jaki pierwiastek ma symbol c | co oznacza symbol c | pierwiastek o symbolu c | symbol c to,Węgiel.
+chemia,jaki pierwiastek ma liczbę atomową 6 | pierwiastek numer 6 | liczba atomowa 6 oznacza | podaj pierwiastek o numerze 6,Węgiel.
+chemia,symbol pierwiastka azot | jaki symbol ma azot | azot - symbol | podaj symbol: azot,N.
+chemia,liczba atomowa: azot | jaką liczbę atomową ma azot | azot - liczba atomowa | ile protonów ma azot,7.
+chemia,jaki pierwiastek ma symbol n | co oznacza symbol n | pierwiastek o symbolu n | symbol n to,Azot.
+chemia,jaki pierwiastek ma liczbę atomową 7 | pierwiastek numer 7 | liczba atomowa 7 oznacza | podaj pierwiastek o numerze 7,Azot.
+chemia,symbol pierwiastka tlen | jaki symbol ma tlen | tlen - symbol | podaj symbol: tlen,O.
+chemia,liczba atomowa: tlen | jaką liczbę atomową ma tlen | tlen - liczba atomowa | ile protonów ma tlen,8.
+chemia,jaki pierwiastek ma symbol o | co oznacza symbol o | pierwiastek o symbolu o | symbol o to,Tlen.
+chemia,jaki pierwiastek ma liczbę atomową 8 | pierwiastek numer 8 | liczba atomowa 8 oznacza | podaj pierwiastek o numerze 8,Tlen.
+chemia,symbol pierwiastka fluor | jaki symbol ma fluor | fluor - symbol | podaj symbol: fluor,F.
+chemia,liczba atomowa: fluor | jaką liczbę atomową ma fluor | fluor - liczba atomowa | ile protonów ma fluor,9.
+chemia,jaki pierwiastek ma symbol f | co oznacza symbol f | pierwiastek o symbolu f | symbol f to,Fluor.
+chemia,jaki pierwiastek ma liczbę atomową 9 | pierwiastek numer 9 | liczba atomowa 9 oznacza | podaj pierwiastek o numerze 9,Fluor.
+chemia,symbol pierwiastka neon | jaki symbol ma neon | neon - symbol | podaj symbol: neon,Ne.
+chemia,liczba atomowa: neon | jaką liczbę atomową ma neon | neon - liczba atomowa | ile protonów ma neon,10.
+chemia,jaki pierwiastek ma symbol ne | co oznacza symbol ne | pierwiastek o symbolu ne | symbol ne to,Neon.
+chemia,jaki pierwiastek ma liczbę atomową 10 | pierwiastek numer 10 | liczba atomowa 10 oznacza | podaj pierwiastek o numerze 10,Neon.
+chemia,symbol pierwiastka sód | jaki symbol ma sód | sód - symbol | podaj symbol: sód,Na.
+chemia,liczba atomowa: sód | jaką liczbę atomową ma sód | sód - liczba atomowa | ile protonów ma sód,11.
+chemia,jaki pierwiastek ma symbol na | co oznacza symbol na | pierwiastek o symbolu na | symbol na to,Sód.
+chemia,jaki pierwiastek ma liczbę atomową 11 | pierwiastek numer 11 | liczba atomowa 11 oznacza | podaj pierwiastek o numerze 11,Sód.
+chemia,symbol pierwiastka magnez | jaki symbol ma magnez | magnez - symbol | podaj symbol: magnez,Mg.
+chemia,liczba atomowa: magnez | jaką liczbę atomową ma magnez | magnez - liczba atomowa | ile protonów ma magnez,12.
+chemia,jaki pierwiastek ma symbol mg | co oznacza symbol mg | pierwiastek o symbolu mg | symbol mg to,Magnez.
+chemia,jaki pierwiastek ma liczbę atomową 12 | pierwiastek numer 12 | liczba atomowa 12 oznacza | podaj pierwiastek o numerze 12,Magnez.
+chemia,symbol pierwiastka glin | jaki symbol ma glin | glin - symbol | podaj symbol: glin,Al.
+chemia,liczba atomowa: glin | jaką liczbę atomową ma glin | glin - liczba atomowa | ile protonów ma glin,13.
+chemia,jaki pierwiastek ma symbol al | co oznacza symbol al | pierwiastek o symbolu al | symbol al to,Glin.
+chemia,jaki pierwiastek ma liczbę atomową 13 | pierwiastek numer 13 | liczba atomowa 13 oznacza | podaj pierwiastek o numerze 13,Glin.
+chemia,symbol pierwiastka krzem | jaki symbol ma krzem | krzem - symbol | podaj symbol: krzem,Si.
+chemia,liczba atomowa: krzem | jaką liczbę atomową ma krzem | krzem - liczba atomowa | ile protonów ma krzem,14.
+chemia,jaki pierwiastek ma symbol si | co oznacza symbol si | pierwiastek o symbolu si | symbol si to,Krzem.
+chemia,jaki pierwiastek ma liczbę atomową 14 | pierwiastek numer 14 | liczba atomowa 14 oznacza | podaj pierwiastek o numerze 14,Krzem.
+chemia,symbol pierwiastka fosfor | jaki symbol ma fosfor | fosfor - symbol | podaj symbol: fosfor,P.
+chemia,liczba atomowa: fosfor | jaką liczbę atomową ma fosfor | fosfor - liczba atomowa | ile protonów ma fosfor,15.
+chemia,jaki pierwiastek ma symbol p | co oznacza symbol p | pierwiastek o symbolu p | symbol p to,Fosfor.
+chemia,jaki pierwiastek ma liczbę atomową 15 | pierwiastek numer 15 | liczba atomowa 15 oznacza | podaj pierwiastek o numerze 15,Fosfor.
+chemia,symbol pierwiastka siarka | jaki symbol ma siarka | siarka - symbol | podaj symbol: siarka,S.
+chemia,liczba atomowa: siarka | jaką liczbę atomową ma siarka | siarka - liczba atomowa | ile protonów ma siarka,16.
+chemia,jaki pierwiastek ma symbol s | co oznacza symbol s | pierwiastek o symbolu s | symbol s to,Siarka.
+chemia,jaki pierwiastek ma liczbę atomową 16 | pierwiastek numer 16 | liczba atomowa 16 oznacza | podaj pierwiastek o numerze 16,Siarka.
+chemia,symbol pierwiastka chlor | jaki symbol ma chlor | chlor - symbol | podaj symbol: chlor,Cl.
+chemia,liczba atomowa: chlor | jaką liczbę atomową ma chlor | chlor - liczba atomowa | ile protonów ma chlor,17.
+chemia,jaki pierwiastek ma symbol cl | co oznacza symbol cl | pierwiastek o symbolu cl | symbol cl to,Chlor.
+chemia,jaki pierwiastek ma liczbę atomową 17 | pierwiastek numer 17 | liczba atomowa 17 oznacza | podaj pierwiastek o numerze 17,Chlor.
+chemia,symbol pierwiastka argon | jaki symbol ma argon | argon - symbol | podaj symbol: argon,Ar.
+chemia,liczba atomowa: argon | jaką liczbę atomową ma argon | argon - liczba atomowa | ile protonów ma argon,18.
+chemia,jaki pierwiastek ma symbol ar | co oznacza symbol ar | pierwiastek o symbolu ar | symbol ar to,Argon.
+chemia,jaki pierwiastek ma liczbę atomową 18 | pierwiastek numer 18 | liczba atomowa 18 oznacza | podaj pierwiastek o numerze 18,Argon.
+chemia,symbol pierwiastka potas | jaki symbol ma potas | potas - symbol | podaj symbol: potas,K.
+chemia,liczba atomowa: potas | jaką liczbę atomową ma potas | potas - liczba atomowa | ile protonów ma potas,19.
+chemia,jaki pierwiastek ma symbol k | co oznacza symbol k | pierwiastek o symbolu k | symbol k to,Potas.
+chemia,jaki pierwiastek ma liczbę atomową 19 | pierwiastek numer 19 | liczba atomowa 19 oznacza | podaj pierwiastek o numerze 19,Potas.
+chemia,symbol pierwiastka wapń | jaki symbol ma wapń | wapń - symbol | podaj symbol: wapń,Ca.
+chemia,liczba atomowa: wapń | jaką liczbę atomową ma wapń | wapń - liczba atomowa | ile protonów ma wapń,20.
+chemia,jaki pierwiastek ma symbol ca | co oznacza symbol ca | pierwiastek o symbolu ca | symbol ca to,Wapń.
+chemia,jaki pierwiastek ma liczbę atomową 20 | pierwiastek numer 20 | liczba atomowa 20 oznacza | podaj pierwiastek o numerze 20,Wapń.
+chemia,symbol pierwiastka skand | jaki symbol ma skand | skand - symbol | podaj symbol: skand,Sc.
+chemia,liczba atomowa: skand | jaką liczbę atomową ma skand | skand - liczba atomowa | ile protonów ma skand,21.
+chemia,jaki pierwiastek ma symbol sc | co oznacza symbol sc | pierwiastek o symbolu sc | symbol sc to,Skand.
+chemia,jaki pierwiastek ma liczbę atomową 21 | pierwiastek numer 21 | liczba atomowa 21 oznacza | podaj pierwiastek o numerze 21,Skand.
+chemia,symbol pierwiastka tytan | jaki symbol ma tytan | tytan - symbol | podaj symbol: tytan,Ti.
+chemia,liczba atomowa: tytan | jaką liczbę atomową ma tytan | tytan - liczba atomowa | ile protonów ma tytan,22.
+chemia,jaki pierwiastek ma symbol ti | co oznacza symbol ti | pierwiastek o symbolu ti | symbol ti to,Tytan.
+chemia,jaki pierwiastek ma liczbę atomową 22 | pierwiastek numer 22 | liczba atomowa 22 oznacza | podaj pierwiastek o numerze 22,Tytan.
+chemia,symbol pierwiastka wanad | jaki symbol ma wanad | wanad - symbol | podaj symbol: wanad,V.
+chemia,liczba atomowa: wanad | jaką liczbę atomową ma wanad | wanad - liczba atomowa | ile protonów ma wanad,23.
+chemia,jaki pierwiastek ma symbol v | co oznacza symbol v | pierwiastek o symbolu v | symbol v to,Wanad.
+chemia,jaki pierwiastek ma liczbę atomową 23 | pierwiastek numer 23 | liczba atomowa 23 oznacza | podaj pierwiastek o numerze 23,Wanad.
+chemia,symbol pierwiastka chrom | jaki symbol ma chrom | chrom - symbol | podaj symbol: chrom,Cr.
+chemia,liczba atomowa: chrom | jaką liczbę atomową ma chrom | chrom - liczba atomowa | ile protonów ma chrom,24.
+chemia,jaki pierwiastek ma symbol cr | co oznacza symbol cr | pierwiastek o symbolu cr | symbol cr to,Chrom.
+chemia,jaki pierwiastek ma liczbę atomową 24 | pierwiastek numer 24 | liczba atomowa 24 oznacza | podaj pierwiastek o numerze 24,Chrom.
+chemia,symbol pierwiastka mangan | jaki symbol ma mangan | mangan - symbol | podaj symbol: mangan,Mn.
+chemia,liczba atomowa: mangan | jaką liczbę atomową ma mangan | mangan - liczba atomowa | ile protonów ma mangan,25.
+chemia,jaki pierwiastek ma symbol mn | co oznacza symbol mn | pierwiastek o symbolu mn | symbol mn to,Mangan.
+chemia,jaki pierwiastek ma liczbę atomową 25 | pierwiastek numer 25 | liczba atomowa 25 oznacza | podaj pierwiastek o numerze 25,Mangan.
+chemia,symbol pierwiastka żelazo | jaki symbol ma żelazo | żelazo - symbol | podaj symbol: żelazo,Fe.
+chemia,liczba atomowa: żelazo | jaką liczbę atomową ma żelazo | żelazo - liczba atomowa | ile protonów ma żelazo,26.
+chemia,jaki pierwiastek ma symbol fe | co oznacza symbol fe | pierwiastek o symbolu fe | symbol fe to,Żelazo.
+chemia,jaki pierwiastek ma liczbę atomową 26 | pierwiastek numer 26 | liczba atomowa 26 oznacza | podaj pierwiastek o numerze 26,Żelazo.
+chemia,symbol pierwiastka kobalt | jaki symbol ma kobalt | kobalt - symbol | podaj symbol: kobalt,Co.
+chemia,liczba atomowa: kobalt | jaką liczbę atomową ma kobalt | kobalt - liczba atomowa | ile protonów ma kobalt,27.
+chemia,jaki pierwiastek ma symbol co | co oznacza symbol co | pierwiastek o symbolu co | symbol co to,Kobalt.
+chemia,jaki pierwiastek ma liczbę atomową 27 | pierwiastek numer 27 | liczba atomowa 27 oznacza | podaj pierwiastek o numerze 27,Kobalt.
+chemia,symbol pierwiastka nikiel | jaki symbol ma nikiel | nikiel - symbol | podaj symbol: nikiel,Ni.
+chemia,liczba atomowa: nikiel | jaką liczbę atomową ma nikiel | nikiel - liczba atomowa | ile protonów ma nikiel,28.
+chemia,jaki pierwiastek ma symbol ni | co oznacza symbol ni | pierwiastek o symbolu ni | symbol ni to,Nikiel.
+chemia,jaki pierwiastek ma liczbę atomową 28 | pierwiastek numer 28 | liczba atomowa 28 oznacza | podaj pierwiastek o numerze 28,Nikiel.
+chemia,symbol pierwiastka miedź | jaki symbol ma miedź | miedź - symbol | podaj symbol: miedź,Cu.
+chemia,liczba atomowa: miedź | jaką liczbę atomową ma miedź | miedź - liczba atomowa | ile protonów ma miedź,29.
+chemia,jaki pierwiastek ma symbol cu | co oznacza symbol cu | pierwiastek o symbolu cu | symbol cu to,Miedź.
+chemia,jaki pierwiastek ma liczbę atomową 29 | pierwiastek numer 29 | liczba atomowa 29 oznacza | podaj pierwiastek o numerze 29,Miedź.
+chemia,symbol pierwiastka cynk | jaki symbol ma cynk | cynk - symbol | podaj symbol: cynk,Zn.
+chemia,liczba atomowa: cynk | jaką liczbę atomową ma cynk | cynk - liczba atomowa | ile protonów ma cynk,30.
+chemia,jaki pierwiastek ma symbol zn | co oznacza symbol zn | pierwiastek o symbolu zn | symbol zn to,Cynk.
+chemia,jaki pierwiastek ma liczbę atomową 30 | pierwiastek numer 30 | liczba atomowa 30 oznacza | podaj pierwiastek o numerze 30,Cynk.
+chemia,symbol pierwiastka gal | jaki symbol ma gal | gal - symbol | podaj symbol: gal,Ga.
+chemia,liczba atomowa: gal | jaką liczbę atomową ma gal | gal - liczba atomowa | ile protonów ma gal,31.
+chemia,jaki pierwiastek ma symbol ga | co oznacza symbol ga | pierwiastek o symbolu ga | symbol ga to,Gal.
+chemia,jaki pierwiastek ma liczbę atomową 31 | pierwiastek numer 31 | liczba atomowa 31 oznacza | podaj pierwiastek o numerze 31,Gal.
+chemia,symbol pierwiastka german | jaki symbol ma german | german - symbol | podaj symbol: german,Ge.
+chemia,liczba atomowa: german | jaką liczbę atomową ma german | german - liczba atomowa | ile protonów ma german,32.
+chemia,jaki pierwiastek ma symbol ge | co oznacza symbol ge | pierwiastek o symbolu ge | symbol ge to,German.
+chemia,jaki pierwiastek ma liczbę atomową 32 | pierwiastek numer 32 | liczba atomowa 32 oznacza | podaj pierwiastek o numerze 32,German.
+chemia,symbol pierwiastka arsen | jaki symbol ma arsen | arsen - symbol | podaj symbol: arsen,As.
+chemia,liczba atomowa: arsen | jaką liczbę atomową ma arsen | arsen - liczba atomowa | ile protonów ma arsen,33.
+chemia,jaki pierwiastek ma symbol as | co oznacza symbol as | pierwiastek o symbolu as | symbol as to,Arsen.
+chemia,jaki pierwiastek ma liczbę atomową 33 | pierwiastek numer 33 | liczba atomowa 33 oznacza | podaj pierwiastek o numerze 33,Arsen.
+chemia,symbol pierwiastka selen | jaki symbol ma selen | selen - symbol | podaj symbol: selen,Se.
+chemia,liczba atomowa: selen | jaką liczbę atomową ma selen | selen - liczba atomowa | ile protonów ma selen,34.
+chemia,jaki pierwiastek ma symbol se | co oznacza symbol se | pierwiastek o symbolu se | symbol se to,Selen.
+chemia,jaki pierwiastek ma liczbę atomową 34 | pierwiastek numer 34 | liczba atomowa 34 oznacza | podaj pierwiastek o numerze 34,Selen.
+chemia,symbol pierwiastka brom | jaki symbol ma brom | brom - symbol | podaj symbol: brom,Br.
+chemia,liczba atomowa: brom | jaką liczbę atomową ma brom | brom - liczba atomowa | ile protonów ma brom,35.
+chemia,jaki pierwiastek ma symbol br | co oznacza symbol br | pierwiastek o symbolu br | symbol br to,Brom.
+chemia,jaki pierwiastek ma liczbę atomową 35 | pierwiastek numer 35 | liczba atomowa 35 oznacza | podaj pierwiastek o numerze 35,Brom.
+chemia,symbol pierwiastka krypton | jaki symbol ma krypton | krypton - symbol | podaj symbol: krypton,Kr.
+chemia,liczba atomowa: krypton | jaką liczbę atomową ma krypton | krypton - liczba atomowa | ile protonów ma krypton,36.
+chemia,jaki pierwiastek ma symbol kr | co oznacza symbol kr | pierwiastek o symbolu kr | symbol kr to,Krypton.
+chemia,jaki pierwiastek ma liczbę atomową 36 | pierwiastek numer 36 | liczba atomowa 36 oznacza | podaj pierwiastek o numerze 36,Krypton.
+chemia,symbol pierwiastka rubid | jaki symbol ma rubid | rubid - symbol | podaj symbol: rubid,Rb.
+chemia,liczba atomowa: rubid | jaką liczbę atomową ma rubid | rubid - liczba atomowa | ile protonów ma rubid,37.
+chemia,jaki pierwiastek ma symbol rb | co oznacza symbol rb | pierwiastek o symbolu rb | symbol rb to,Rubid.
+chemia,jaki pierwiastek ma liczbę atomową 37 | pierwiastek numer 37 | liczba atomowa 37 oznacza | podaj pierwiastek o numerze 37,Rubid.
+chemia,symbol pierwiastka stront | jaki symbol ma stront | stront - symbol | podaj symbol: stront,Sr.
+chemia,liczba atomowa: stront | jaką liczbę atomową ma stront | stront - liczba atomowa | ile protonów ma stront,38.
+chemia,jaki pierwiastek ma symbol sr | co oznacza symbol sr | pierwiastek o symbolu sr | symbol sr to,Stront.
+chemia,jaki pierwiastek ma liczbę atomową 38 | pierwiastek numer 38 | liczba atomowa 38 oznacza | podaj pierwiastek o numerze 38,Stront.
+chemia,symbol pierwiastka itr | jaki symbol ma itr | itr - symbol | podaj symbol: itr,Y.
+chemia,liczba atomowa: itr | jaką liczbę atomową ma itr | itr - liczba atomowa | ile protonów ma itr,39.
+chemia,jaki pierwiastek ma symbol y | co oznacza symbol y | pierwiastek o symbolu y | symbol y to,Itr.
+chemia,jaki pierwiastek ma liczbę atomową 39 | pierwiastek numer 39 | liczba atomowa 39 oznacza | podaj pierwiastek o numerze 39,Itr.
+chemia,symbol pierwiastka cyrkon | jaki symbol ma cyrkon | cyrkon - symbol | podaj symbol: cyrkon,Zr.
+chemia,liczba atomowa: cyrkon | jaką liczbę atomową ma cyrkon | cyrkon - liczba atomowa | ile protonów ma cyrkon,40.
+chemia,jaki pierwiastek ma symbol zr | co oznacza symbol zr | pierwiastek o symbolu zr | symbol zr to,Cyrkon.
+chemia,jaki pierwiastek ma liczbę atomową 40 | pierwiastek numer 40 | liczba atomowa 40 oznacza | podaj pierwiastek o numerze 40,Cyrkon.
+chemia,symbol pierwiastka niob | jaki symbol ma niob | niob - symbol | podaj symbol: niob,Nb.
+chemia,liczba atomowa: niob | jaką liczbę atomową ma niob | niob - liczba atomowa | ile protonów ma niob,41.
+chemia,jaki pierwiastek ma symbol nb | co oznacza symbol nb | pierwiastek o symbolu nb | symbol nb to,Niob.
+chemia,jaki pierwiastek ma liczbę atomową 41 | pierwiastek numer 41 | liczba atomowa 41 oznacza | podaj pierwiastek o numerze 41,Niob.
+chemia,symbol pierwiastka molibden | jaki symbol ma molibden | molibden - symbol | podaj symbol: molibden,Mo.
+chemia,liczba atomowa: molibden | jaką liczbę atomową ma molibden | molibden - liczba atomowa | ile protonów ma molibden,42.
+chemia,jaki pierwiastek ma symbol mo | co oznacza symbol mo | pierwiastek o symbolu mo | symbol mo to,Molibden.
+chemia,jaki pierwiastek ma liczbę atomową 42 | pierwiastek numer 42 | liczba atomowa 42 oznacza | podaj pierwiastek o numerze 42,Molibden.
+chemia,symbol pierwiastka technet | jaki symbol ma technet | technet - symbol | podaj symbol: technet,Tc.
+chemia,liczba atomowa: technet | jaką liczbę atomową ma technet | technet - liczba atomowa | ile protonów ma technet,43.
+chemia,jaki pierwiastek ma symbol tc | co oznacza symbol tc | pierwiastek o symbolu tc | symbol tc to,Technet.
+chemia,jaki pierwiastek ma liczbę atomową 43 | pierwiastek numer 43 | liczba atomowa 43 oznacza | podaj pierwiastek o numerze 43,Technet.
+chemia,symbol pierwiastka ruten | jaki symbol ma ruten | ruten - symbol | podaj symbol: ruten,Ru.
+chemia,liczba atomowa: ruten | jaką liczbę atomową ma ruten | ruten - liczba atomowa | ile protonów ma ruten,44.
+chemia,jaki pierwiastek ma symbol ru | co oznacza symbol ru | pierwiastek o symbolu ru | symbol ru to,Ruten.
+chemia,jaki pierwiastek ma liczbę atomową 44 | pierwiastek numer 44 | liczba atomowa 44 oznacza | podaj pierwiastek o numerze 44,Ruten.
+chemia,symbol pierwiastka rod | jaki symbol ma rod | rod - symbol | podaj symbol: rod,Rh.
+chemia,liczba atomowa: rod | jaką liczbę atomową ma rod | rod - liczba atomowa | ile protonów ma rod,45.
+chemia,jaki pierwiastek ma symbol rh | co oznacza symbol rh | pierwiastek o symbolu rh | symbol rh to,Rod.
+chemia,jaki pierwiastek ma liczbę atomową 45 | pierwiastek numer 45 | liczba atomowa 45 oznacza | podaj pierwiastek o numerze 45,Rod.
+chemia,symbol pierwiastka pallad | jaki symbol ma pallad | pallad - symbol | podaj symbol: pallad,Pd.
+chemia,liczba atomowa: pallad | jaką liczbę atomową ma pallad | pallad - liczba atomowa | ile protonów ma pallad,46.
+chemia,jaki pierwiastek ma symbol pd | co oznacza symbol pd | pierwiastek o symbolu pd | symbol pd to,Pallad.
+chemia,jaki pierwiastek ma liczbę atomową 46 | pierwiastek numer 46 | liczba atomowa 46 oznacza | podaj pierwiastek o numerze 46,Pallad.
+chemia,symbol pierwiastka srebro | jaki symbol ma srebro | srebro - symbol | podaj symbol: srebro,Ag.
+chemia,liczba atomowa: srebro | jaką liczbę atomową ma srebro | srebro - liczba atomowa | ile protonów ma srebro,47.
+chemia,jaki pierwiastek ma symbol ag | co oznacza symbol ag | pierwiastek o symbolu ag | symbol ag to,Srebro.
+chemia,jaki pierwiastek ma liczbę atomową 47 | pierwiastek numer 47 | liczba atomowa 47 oznacza | podaj pierwiastek o numerze 47,Srebro.
+chemia,symbol pierwiastka kadm | jaki symbol ma kadm | kadm - symbol | podaj symbol: kadm,Cd.
+chemia,liczba atomowa: kadm | jaką liczbę atomową ma kadm | kadm - liczba atomowa | ile protonów ma kadm,48.
+chemia,jaki pierwiastek ma symbol cd | co oznacza symbol cd | pierwiastek o symbolu cd | symbol cd to,Kadm.
+chemia,jaki pierwiastek ma liczbę atomową 48 | pierwiastek numer 48 | liczba atomowa 48 oznacza | podaj pierwiastek o numerze 48,Kadm.
+chemia,symbol pierwiastka ind | jaki symbol ma ind | ind - symbol | podaj symbol: ind,In.
+chemia,liczba atomowa: ind | jaką liczbę atomową ma ind | ind - liczba atomowa | ile protonów ma ind,49.
+chemia,jaki pierwiastek ma symbol in | co oznacza symbol in | pierwiastek o symbolu in | symbol in to,Ind.
+chemia,jaki pierwiastek ma liczbę atomową 49 | pierwiastek numer 49 | liczba atomowa 49 oznacza | podaj pierwiastek o numerze 49,Ind.
+chemia,symbol pierwiastka cyna | jaki symbol ma cyna | cyna - symbol | podaj symbol: cyna,Sn.
+chemia,liczba atomowa: cyna | jaką liczbę atomową ma cyna | cyna - liczba atomowa | ile protonów ma cyna,50.
+chemia,jaki pierwiastek ma symbol sn | co oznacza symbol sn | pierwiastek o symbolu sn | symbol sn to,Cyna.
+chemia,jaki pierwiastek ma liczbę atomową 50 | pierwiastek numer 50 | liczba atomowa 50 oznacza | podaj pierwiastek o numerze 50,Cyna.
+chemia,symbol pierwiastka antymon | jaki symbol ma antymon | antymon - symbol | podaj symbol: antymon,Sb.
+chemia,liczba atomowa: antymon | jaką liczbę atomową ma antymon | antymon - liczba atomowa | ile protonów ma antymon,51.
+chemia,jaki pierwiastek ma symbol sb | co oznacza symbol sb | pierwiastek o symbolu sb | symbol sb to,Antymon.
+chemia,jaki pierwiastek ma liczbę atomową 51 | pierwiastek numer 51 | liczba atomowa 51 oznacza | podaj pierwiastek o numerze 51,Antymon.
+chemia,symbol pierwiastka tellur | jaki symbol ma tellur | tellur - symbol | podaj symbol: tellur,Te.
+chemia,liczba atomowa: tellur | jaką liczbę atomową ma tellur | tellur - liczba atomowa | ile protonów ma tellur,52.
+chemia,jaki pierwiastek ma symbol te | co oznacza symbol te | pierwiastek o symbolu te | symbol te to,Tellur.
+chemia,jaki pierwiastek ma liczbę atomową 52 | pierwiastek numer 52 | liczba atomowa 52 oznacza | podaj pierwiastek o numerze 52,Tellur.
+chemia,symbol pierwiastka jod | jaki symbol ma jod | jod - symbol | podaj symbol: jod,I.
+chemia,liczba atomowa: jod | jaką liczbę atomową ma jod | jod - liczba atomowa | ile protonów ma jod,53.
+chemia,jaki pierwiastek ma symbol i | co oznacza symbol i | pierwiastek o symbolu i | symbol i to,Jod.
+chemia,jaki pierwiastek ma liczbę atomową 53 | pierwiastek numer 53 | liczba atomowa 53 oznacza | podaj pierwiastek o numerze 53,Jod.
+chemia,symbol pierwiastka ksenon | jaki symbol ma ksenon | ksenon - symbol | podaj symbol: ksenon,Xe.
+chemia,liczba atomowa: ksenon | jaką liczbę atomową ma ksenon | ksenon - liczba atomowa | ile protonów ma ksenon,54.
+chemia,jaki pierwiastek ma symbol xe | co oznacza symbol xe | pierwiastek o symbolu xe | symbol xe to,Ksenon.
+chemia,jaki pierwiastek ma liczbę atomową 54 | pierwiastek numer 54 | liczba atomowa 54 oznacza | podaj pierwiastek o numerze 54,Ksenon.
+chemia,symbol pierwiastka cez | jaki symbol ma cez | cez - symbol | podaj symbol: cez,Cs.
+chemia,liczba atomowa: cez | jaką liczbę atomową ma cez | cez - liczba atomowa | ile protonów ma cez,55.
+chemia,jaki pierwiastek ma symbol cs | co oznacza symbol cs | pierwiastek o symbolu cs | symbol cs to,Cez.
+chemia,jaki pierwiastek ma liczbę atomową 55 | pierwiastek numer 55 | liczba atomowa 55 oznacza | podaj pierwiastek o numerze 55,Cez.
+chemia,symbol pierwiastka bar | jaki symbol ma bar | bar - symbol | podaj symbol: bar,Ba.
+chemia,liczba atomowa: bar | jaką liczbę atomową ma bar | bar - liczba atomowa | ile protonów ma bar,56.
+chemia,jaki pierwiastek ma symbol ba | co oznacza symbol ba | pierwiastek o symbolu ba | symbol ba to,Bar.
+chemia,jaki pierwiastek ma liczbę atomową 56 | pierwiastek numer 56 | liczba atomowa 56 oznacza | podaj pierwiastek o numerze 56,Bar.
+chemia,symbol pierwiastka lantan | jaki symbol ma lantan | lantan - symbol | podaj symbol: lantan,La.
+chemia,liczba atomowa: lantan | jaką liczbę atomową ma lantan | lantan - liczba atomowa | ile protonów ma lantan,57.
+chemia,jaki pierwiastek ma symbol la | co oznacza symbol la | pierwiastek o symbolu la | symbol la to,Lantan.
+chemia,jaki pierwiastek ma liczbę atomową 57 | pierwiastek numer 57 | liczba atomowa 57 oznacza | podaj pierwiastek o numerze 57,Lantan.
+chemia,symbol pierwiastka cer | jaki symbol ma cer | cer - symbol | podaj symbol: cer,Ce.
+chemia,liczba atomowa: cer | jaką liczbę atomową ma cer | cer - liczba atomowa | ile protonów ma cer,58.
+chemia,jaki pierwiastek ma symbol ce | co oznacza symbol ce | pierwiastek o symbolu ce | symbol ce to,Cer.
+chemia,jaki pierwiastek ma liczbę atomową 58 | pierwiastek numer 58 | liczba atomowa 58 oznacza | podaj pierwiastek o numerze 58,Cer.
+chemia,symbol pierwiastka prazeodym | jaki symbol ma prazeodym | prazeodym - symbol | podaj symbol: prazeodym,Pr.
+chemia,liczba atomowa: prazeodym | jaką liczbę atomową ma prazeodym | prazeodym - liczba atomowa | ile protonów ma prazeodym,59.
+chemia,jaki pierwiastek ma symbol pr | co oznacza symbol pr | pierwiastek o symbolu pr | symbol pr to,Prazeodym.
+chemia,jaki pierwiastek ma liczbę atomową 59 | pierwiastek numer 59 | liczba atomowa 59 oznacza | podaj pierwiastek o numerze 59,Prazeodym.
+chemia,symbol pierwiastka neodym | jaki symbol ma neodym | neodym - symbol | podaj symbol: neodym,Nd.
+chemia,liczba atomowa: neodym | jaką liczbę atomową ma neodym | neodym - liczba atomowa | ile protonów ma neodym,60.
+chemia,jaki pierwiastek ma symbol nd | co oznacza symbol nd | pierwiastek o symbolu nd | symbol nd to,Neodym.
+chemia,jaki pierwiastek ma liczbę atomową 60 | pierwiastek numer 60 | liczba atomowa 60 oznacza | podaj pierwiastek o numerze 60,Neodym.
+chemia,symbol pierwiastka promet | jaki symbol ma promet | promet - symbol | podaj symbol: promet,Pm.
+chemia,liczba atomowa: promet | jaką liczbę atomową ma promet | promet - liczba atomowa | ile protonów ma promet,61.
+chemia,jaki pierwiastek ma symbol pm | co oznacza symbol pm | pierwiastek o symbolu pm | symbol pm to,Promet.
+chemia,jaki pierwiastek ma liczbę atomową 61 | pierwiastek numer 61 | liczba atomowa 61 oznacza | podaj pierwiastek o numerze 61,Promet.
+chemia,symbol pierwiastka samar | jaki symbol ma samar | samar - symbol | podaj symbol: samar,Sm.
+chemia,liczba atomowa: samar | jaką liczbę atomową ma samar | samar - liczba atomowa | ile protonów ma samar,62.
+chemia,jaki pierwiastek ma symbol sm | co oznacza symbol sm | pierwiastek o symbolu sm | symbol sm to,Samar.
+chemia,jaki pierwiastek ma liczbę atomową 62 | pierwiastek numer 62 | liczba atomowa 62 oznacza | podaj pierwiastek o numerze 62,Samar.
+chemia,symbol pierwiastka europ | jaki symbol ma europ | europ - symbol | podaj symbol: europ,Eu.
+chemia,liczba atomowa: europ | jaką liczbę atomową ma europ | europ - liczba atomowa | ile protonów ma europ,63.
+chemia,jaki pierwiastek ma symbol eu | co oznacza symbol eu | pierwiastek o symbolu eu | symbol eu to,Europ.
+chemia,jaki pierwiastek ma liczbę atomową 63 | pierwiastek numer 63 | liczba atomowa 63 oznacza | podaj pierwiastek o numerze 63,Europ.
+chemia,symbol pierwiastka gadolin | jaki symbol ma gadolin | gadolin - symbol | podaj symbol: gadolin,Gd.
+chemia,liczba atomowa: gadolin | jaką liczbę atomową ma gadolin | gadolin - liczba atomowa | ile protonów ma gadolin,64.
+chemia,jaki pierwiastek ma symbol gd | co oznacza symbol gd | pierwiastek o symbolu gd | symbol gd to,Gadolin.
+chemia,jaki pierwiastek ma liczbę atomową 64 | pierwiastek numer 64 | liczba atomowa 64 oznacza | podaj pierwiastek o numerze 64,Gadolin.
+chemia,symbol pierwiastka terb | jaki symbol ma terb | terb - symbol | podaj symbol: terb,Tb.
+chemia,liczba atomowa: terb | jaką liczbę atomową ma terb | terb - liczba atomowa | ile protonów ma terb,65.
+chemia,jaki pierwiastek ma symbol tb | co oznacza symbol tb | pierwiastek o symbolu tb | symbol tb to,Terb.
+chemia,jaki pierwiastek ma liczbę atomową 65 | pierwiastek numer 65 | liczba atomowa 65 oznacza | podaj pierwiastek o numerze 65,Terb.
+chemia,symbol pierwiastka dysproz | jaki symbol ma dysproz | dysproz - symbol | podaj symbol: dysproz,Dy.
+chemia,liczba atomowa: dysproz | jaką liczbę atomową ma dysproz | dysproz - liczba atomowa | ile protonów ma dysproz,66.
+chemia,jaki pierwiastek ma symbol dy | co oznacza symbol dy | pierwiastek o symbolu dy | symbol dy to,Dysproz.
+chemia,jaki pierwiastek ma liczbę atomową 66 | pierwiastek numer 66 | liczba atomowa 66 oznacza | podaj pierwiastek o numerze 66,Dysproz.
+chemia,symbol pierwiastka holm | jaki symbol ma holm | holm - symbol | podaj symbol: holm,Ho.
+chemia,liczba atomowa: holm | jaką liczbę atomową ma holm | holm - liczba atomowa | ile protonów ma holm,67.
+chemia,jaki pierwiastek ma symbol ho | co oznacza symbol ho | pierwiastek o symbolu ho | symbol ho to,Holm.
+chemia,jaki pierwiastek ma liczbę atomową 67 | pierwiastek numer 67 | liczba atomowa 67 oznacza | podaj pierwiastek o numerze 67,Holm.
+chemia,symbol pierwiastka erb | jaki symbol ma erb | erb - symbol | podaj symbol: erb,Er.
+chemia,liczba atomowa: erb | jaką liczbę atomową ma erb | erb - liczba atomowa | ile protonów ma erb,68.
+chemia,jaki pierwiastek ma symbol er | co oznacza symbol er | pierwiastek o symbolu er | symbol er to,Erb.
+chemia,jaki pierwiastek ma liczbę atomową 68 | pierwiastek numer 68 | liczba atomowa 68 oznacza | podaj pierwiastek o numerze 68,Erb.
+chemia,symbol pierwiastka tul | jaki symbol ma tul | tul - symbol | podaj symbol: tul,Tm.
+chemia,liczba atomowa: tul | jaką liczbę atomową ma tul | tul - liczba atomowa | ile protonów ma tul,69.
+chemia,jaki pierwiastek ma symbol tm | co oznacza symbol tm | pierwiastek o symbolu tm | symbol tm to,Tul.
+chemia,jaki pierwiastek ma liczbę atomową 69 | pierwiastek numer 69 | liczba atomowa 69 oznacza | podaj pierwiastek o numerze 69,Tul.
+chemia,symbol pierwiastka iterb | jaki symbol ma iterb | iterb - symbol | podaj symbol: iterb,Yb.
+chemia,liczba atomowa: iterb | jaką liczbę atomową ma iterb | iterb - liczba atomowa | ile protonów ma iterb,70.
+chemia,jaki pierwiastek ma symbol yb | co oznacza symbol yb | pierwiastek o symbolu yb | symbol yb to,Iterb.
+chemia,jaki pierwiastek ma liczbę atomową 70 | pierwiastek numer 70 | liczba atomowa 70 oznacza | podaj pierwiastek o numerze 70,Iterb.
+chemia,symbol pierwiastka lutet | jaki symbol ma lutet | lutet - symbol | podaj symbol: lutet,Lu.
+chemia,liczba atomowa: lutet | jaką liczbę atomową ma lutet | lutet - liczba atomowa | ile protonów ma lutet,71.
+chemia,jaki pierwiastek ma symbol lu | co oznacza symbol lu | pierwiastek o symbolu lu | symbol lu to,Lutet.
+chemia,jaki pierwiastek ma liczbę atomową 71 | pierwiastek numer 71 | liczba atomowa 71 oznacza | podaj pierwiastek o numerze 71,Lutet.
+chemia,symbol pierwiastka hafn | jaki symbol ma hafn | hafn - symbol | podaj symbol: hafn,Hf.
+chemia,liczba atomowa: hafn | jaką liczbę atomową ma hafn | hafn - liczba atomowa | ile protonów ma hafn,72.
+chemia,jaki pierwiastek ma symbol hf | co oznacza symbol hf | pierwiastek o symbolu hf | symbol hf to,Hafn.
+chemia,jaki pierwiastek ma liczbę atomową 72 | pierwiastek numer 72 | liczba atomowa 72 oznacza | podaj pierwiastek o numerze 72,Hafn.
+chemia,symbol pierwiastka tantal | jaki symbol ma tantal | tantal - symbol | podaj symbol: tantal,Ta.
+chemia,liczba atomowa: tantal | jaką liczbę atomową ma tantal | tantal - liczba atomowa | ile protonów ma tantal,73.
+chemia,jaki pierwiastek ma symbol ta | co oznacza symbol ta | pierwiastek o symbolu ta | symbol ta to,Tantal.
+chemia,jaki pierwiastek ma liczbę atomową 73 | pierwiastek numer 73 | liczba atomowa 73 oznacza | podaj pierwiastek o numerze 73,Tantal.
+chemia,symbol pierwiastka wolfram | jaki symbol ma wolfram | wolfram - symbol | podaj symbol: wolfram,W.
+chemia,liczba atomowa: wolfram | jaką liczbę atomową ma wolfram | wolfram - liczba atomowa | ile protonów ma wolfram,74.
+chemia,jaki pierwiastek ma symbol w | co oznacza symbol w | pierwiastek o symbolu w | symbol w to,Wolfram.
+chemia,jaki pierwiastek ma liczbę atomową 74 | pierwiastek numer 74 | liczba atomowa 74 oznacza | podaj pierwiastek o numerze 74,Wolfram.
+chemia,symbol pierwiastka ren | jaki symbol ma ren | ren - symbol | podaj symbol: ren,Re.
+chemia,liczba atomowa: ren | jaką liczbę atomową ma ren | ren - liczba atomowa | ile protonów ma ren,75.
+chemia,jaki pierwiastek ma symbol re | co oznacza symbol re | pierwiastek o symbolu re | symbol re to,Ren.
+chemia,jaki pierwiastek ma liczbę atomową 75 | pierwiastek numer 75 | liczba atomowa 75 oznacza | podaj pierwiastek o numerze 75,Ren.
+chemia,symbol pierwiastka osm | jaki symbol ma osm | osm - symbol | podaj symbol: osm,Os.
+chemia,liczba atomowa: osm | jaką liczbę atomową ma osm | osm - liczba atomowa | ile protonów ma osm,76.
+chemia,jaki pierwiastek ma symbol os | co oznacza symbol os | pierwiastek o symbolu os | symbol os to,Osm.
+chemia,jaki pierwiastek ma liczbę atomową 76 | pierwiastek numer 76 | liczba atomowa 76 oznacza | podaj pierwiastek o numerze 76,Osm.
+chemia,symbol pierwiastka iryd | jaki symbol ma iryd | iryd - symbol | podaj symbol: iryd,Ir.
+chemia,liczba atomowa: iryd | jaką liczbę atomową ma iryd | iryd - liczba atomowa | ile protonów ma iryd,77.
+chemia,jaki pierwiastek ma symbol ir | co oznacza symbol ir | pierwiastek o symbolu ir | symbol ir to,Iryd.
+chemia,jaki pierwiastek ma liczbę atomową 77 | pierwiastek numer 77 | liczba atomowa 77 oznacza | podaj pierwiastek o numerze 77,Iryd.
+chemia,symbol pierwiastka platyna | jaki symbol ma platyna | platyna - symbol | podaj symbol: platyna,Pt.
+chemia,liczba atomowa: platyna | jaką liczbę atomową ma platyna | platyna - liczba atomowa | ile protonów ma platyna,78.
+chemia,jaki pierwiastek ma symbol pt | co oznacza symbol pt | pierwiastek o symbolu pt | symbol pt to,Platyna.
+chemia,jaki pierwiastek ma liczbę atomową 78 | pierwiastek numer 78 | liczba atomowa 78 oznacza | podaj pierwiastek o numerze 78,Platyna.
+chemia,symbol pierwiastka złoto | jaki symbol ma złoto | złoto - symbol | podaj symbol: złoto,Au.
+chemia,liczba atomowa: złoto | jaką liczbę atomową ma złoto | złoto - liczba atomowa | ile protonów ma złoto,79.
+chemia,jaki pierwiastek ma symbol au | co oznacza symbol au | pierwiastek o symbolu au | symbol au to,Złoto.
+chemia,jaki pierwiastek ma liczbę atomową 79 | pierwiastek numer 79 | liczba atomowa 79 oznacza | podaj pierwiastek o numerze 79,Złoto.
+chemia,symbol pierwiastka rtęć | jaki symbol ma rtęć | rtęć - symbol | podaj symbol: rtęć,Hg.
+chemia,liczba atomowa: rtęć | jaką liczbę atomową ma rtęć | rtęć - liczba atomowa | ile protonów ma rtęć,80.
+chemia,jaki pierwiastek ma symbol hg | co oznacza symbol hg | pierwiastek o symbolu hg | symbol hg to,Rtęć.
+chemia,jaki pierwiastek ma liczbę atomową 80 | pierwiastek numer 80 | liczba atomowa 80 oznacza | podaj pierwiastek o numerze 80,Rtęć.
+chemia,symbol pierwiastka tal | jaki symbol ma tal | tal - symbol | podaj symbol: tal,Tl.
+chemia,liczba atomowa: tal | jaką liczbę atomową ma tal | tal - liczba atomowa | ile protonów ma tal,81.
+chemia,jaki pierwiastek ma symbol tl | co oznacza symbol tl | pierwiastek o symbolu tl | symbol tl to,Tal.
+chemia,jaki pierwiastek ma liczbę atomową 81 | pierwiastek numer 81 | liczba atomowa 81 oznacza | podaj pierwiastek o numerze 81,Tal.
+chemia,symbol pierwiastka ołów | jaki symbol ma ołów | ołów - symbol | podaj symbol: ołów,Pb.
+chemia,liczba atomowa: ołów | jaką liczbę atomową ma ołów | ołów - liczba atomowa | ile protonów ma ołów,82.
+chemia,jaki pierwiastek ma symbol pb | co oznacza symbol pb | pierwiastek o symbolu pb | symbol pb to,Ołów.
+chemia,jaki pierwiastek ma liczbę atomową 82 | pierwiastek numer 82 | liczba atomowa 82 oznacza | podaj pierwiastek o numerze 82,Ołów.
+chemia,symbol pierwiastka bizmut | jaki symbol ma bizmut | bizmut - symbol | podaj symbol: bizmut,Bi.
+chemia,liczba atomowa: bizmut | jaką liczbę atomową ma bizmut | bizmut - liczba atomowa | ile protonów ma bizmut,83.
+chemia,jaki pierwiastek ma symbol bi | co oznacza symbol bi | pierwiastek o symbolu bi | symbol bi to,Bizmut.
+chemia,jaki pierwiastek ma liczbę atomową 83 | pierwiastek numer 83 | liczba atomowa 83 oznacza | podaj pierwiastek o numerze 83,Bizmut.
+chemia,symbol pierwiastka polon | jaki symbol ma polon | polon - symbol | podaj symbol: polon,Po.
+chemia,liczba atomowa: polon | jaką liczbę atomową ma polon | polon - liczba atomowa | ile protonów ma polon,84.
+chemia,jaki pierwiastek ma symbol po | co oznacza symbol po | pierwiastek o symbolu po | symbol po to,Polon.
+chemia,jaki pierwiastek ma liczbę atomową 84 | pierwiastek numer 84 | liczba atomowa 84 oznacza | podaj pierwiastek o numerze 84,Polon.
+chemia,symbol pierwiastka astat | jaki symbol ma astat | astat - symbol | podaj symbol: astat,At.
+chemia,liczba atomowa: astat | jaką liczbę atomową ma astat | astat - liczba atomowa | ile protonów ma astat,85.
+chemia,jaki pierwiastek ma symbol at | co oznacza symbol at | pierwiastek o symbolu at | symbol at to,Astat.
+chemia,jaki pierwiastek ma liczbę atomową 85 | pierwiastek numer 85 | liczba atomowa 85 oznacza | podaj pierwiastek o numerze 85,Astat.
+chemia,symbol pierwiastka radon | jaki symbol ma radon | radon - symbol | podaj symbol: radon,Rn.
+chemia,liczba atomowa: radon | jaką liczbę atomową ma radon | radon - liczba atomowa | ile protonów ma radon,86.
+chemia,jaki pierwiastek ma symbol rn | co oznacza symbol rn | pierwiastek o symbolu rn | symbol rn to,Radon.
+chemia,jaki pierwiastek ma liczbę atomową 86 | pierwiastek numer 86 | liczba atomowa 86 oznacza | podaj pierwiastek o numerze 86,Radon.
+chemia,symbol pierwiastka frans | jaki symbol ma frans | frans - symbol | podaj symbol: frans,Fr.
+chemia,liczba atomowa: frans | jaką liczbę atomową ma frans | frans - liczba atomowa | ile protonów ma frans,87.
+chemia,jaki pierwiastek ma symbol fr | co oznacza symbol fr | pierwiastek o symbolu fr | symbol fr to,Frans.
+chemia,jaki pierwiastek ma liczbę atomową 87 | pierwiastek numer 87 | liczba atomowa 87 oznacza | podaj pierwiastek o numerze 87,Frans.
+chemia,symbol pierwiastka rad | jaki symbol ma rad | rad - symbol | podaj symbol: rad,Ra.
+chemia,liczba atomowa: rad | jaką liczbę atomową ma rad | rad - liczba atomowa | ile protonów ma rad,88.
+chemia,jaki pierwiastek ma symbol ra | co oznacza symbol ra | pierwiastek o symbolu ra | symbol ra to,Rad.
+chemia,jaki pierwiastek ma liczbę atomową 88 | pierwiastek numer 88 | liczba atomowa 88 oznacza | podaj pierwiastek o numerze 88,Rad.
+chemia,symbol pierwiastka aktyn | jaki symbol ma aktyn | aktyn - symbol | podaj symbol: aktyn,Ac.
+chemia,liczba atomowa: aktyn | jaką liczbę atomową ma aktyn | aktyn - liczba atomowa | ile protonów ma aktyn,89.
+chemia,jaki pierwiastek ma symbol ac | co oznacza symbol ac | pierwiastek o symbolu ac | symbol ac to,Aktyn.
+chemia,jaki pierwiastek ma liczbę atomową 89 | pierwiastek numer 89 | liczba atomowa 89 oznacza | podaj pierwiastek o numerze 89,Aktyn.
+chemia,symbol pierwiastka tor | jaki symbol ma tor | tor - symbol | podaj symbol: tor,Th.
+chemia,liczba atomowa: tor | jaką liczbę atomową ma tor | tor - liczba atomowa | ile protonów ma tor,90.
+chemia,jaki pierwiastek ma symbol th | co oznacza symbol th | pierwiastek o symbolu th | symbol th to,Tor.
+chemia,jaki pierwiastek ma liczbę atomową 90 | pierwiastek numer 90 | liczba atomowa 90 oznacza | podaj pierwiastek o numerze 90,Tor.
+chemia,symbol pierwiastka protaktyn | jaki symbol ma protaktyn | protaktyn - symbol | podaj symbol: protaktyn,Pa.
+chemia,liczba atomowa: protaktyn | jaką liczbę atomową ma protaktyn | protaktyn - liczba atomowa | ile protonów ma protaktyn,91.
+chemia,jaki pierwiastek ma symbol pa | co oznacza symbol pa | pierwiastek o symbolu pa | symbol pa to,Protaktyn.
+chemia,jaki pierwiastek ma liczbę atomową 91 | pierwiastek numer 91 | liczba atomowa 91 oznacza | podaj pierwiastek o numerze 91,Protaktyn.
+chemia,symbol pierwiastka uran | jaki symbol ma uran | uran - symbol | podaj symbol: uran,U.
+chemia,liczba atomowa: uran | jaką liczbę atomową ma uran | uran - liczba atomowa | ile protonów ma uran,92.
+chemia,jaki pierwiastek ma symbol u | co oznacza symbol u | pierwiastek o symbolu u | symbol u to,Uran.
+chemia,jaki pierwiastek ma liczbę atomową 92 | pierwiastek numer 92 | liczba atomowa 92 oznacza | podaj pierwiastek o numerze 92,Uran.
+chemia,symbol pierwiastka neptun | jaki symbol ma neptun | neptun - symbol | podaj symbol: neptun,Np.
+chemia,liczba atomowa: neptun | jaką liczbę atomową ma neptun | neptun - liczba atomowa | ile protonów ma neptun,93.
+chemia,jaki pierwiastek ma symbol np | co oznacza symbol np | pierwiastek o symbolu np | symbol np to,Neptun.
+chemia,jaki pierwiastek ma liczbę atomową 93 | pierwiastek numer 93 | liczba atomowa 93 oznacza | podaj pierwiastek o numerze 93,Neptun.
+chemia,symbol pierwiastka pluton | jaki symbol ma pluton | pluton - symbol | podaj symbol: pluton,Pu.
+chemia,liczba atomowa: pluton | jaką liczbę atomową ma pluton | pluton - liczba atomowa | ile protonów ma pluton,94.
+chemia,jaki pierwiastek ma symbol pu | co oznacza symbol pu | pierwiastek o symbolu pu | symbol pu to,Pluton.
+chemia,jaki pierwiastek ma liczbę atomową 94 | pierwiastek numer 94 | liczba atomowa 94 oznacza | podaj pierwiastek o numerze 94,Pluton.
+dni,jaki jest 1. dzień tygodnia | dzień tygodnia numer 1 | podaj 1. dzień tygodnia,Poniedziałek.
+dni,jaki jest 2. dzień tygodnia | dzień tygodnia numer 2 | podaj 2. dzień tygodnia,Wtorek.
+dni,jaki jest 3. dzień tygodnia | dzień tygodnia numer 3 | podaj 3. dzień tygodnia,Środa.
+dni,jaki jest 4. dzień tygodnia | dzień tygodnia numer 4 | podaj 4. dzień tygodnia,Czwartek.
+dni,jaki jest 5. dzień tygodnia | dzień tygodnia numer 5 | podaj 5. dzień tygodnia,Piątek.
+dni,jaki jest 6. dzień tygodnia | dzień tygodnia numer 6 | podaj 6. dzień tygodnia,Sobota.
+dni,jaki jest 7. dzień tygodnia | dzień tygodnia numer 7 | podaj 7. dzień tygodnia,Niedziela.
+miesiące,jaki jest 1. miesiąc roku | miesiąc numer 1 | podaj 1. miesiąc,Styczeń.
+miesiące,jaki jest 2. miesiąc roku | miesiąc numer 2 | podaj 2. miesiąc,Luty.
+miesiące,jaki jest 3. miesiąc roku | miesiąc numer 3 | podaj 3. miesiąc,Marzec.
+miesiące,jaki jest 4. miesiąc roku | miesiąc numer 4 | podaj 4. miesiąc,Kwiecień.
+miesiące,jaki jest 5. miesiąc roku | miesiąc numer 5 | podaj 5. miesiąc,Maj.
+miesiące,jaki jest 6. miesiąc roku | miesiąc numer 6 | podaj 6. miesiąc,Czerwiec.
+miesiące,jaki jest 7. miesiąc roku | miesiąc numer 7 | podaj 7. miesiąc,Lipiec.
+miesiące,jaki jest 8. miesiąc roku | miesiąc numer 8 | podaj 8. miesiąc,Sierpień.
+miesiące,jaki jest 9. miesiąc roku | miesiąc numer 9 | podaj 9. miesiąc,Wrzesień.
+miesiące,jaki jest 10. miesiąc roku | miesiąc numer 10 | podaj 10. miesiąc,Październik.
+miesiące,jaki jest 11. miesiąc roku | miesiąc numer 11 | podaj 11. miesiąc,Listopad.
+miesiące,jaki jest 12. miesiąc roku | miesiąc numer 12 | podaj 12. miesiąc,Grudzień.
+słowa,przeciwieństwo słowa duży | jakie jest przeciwieństwo: duży | podaj przeciwieństwo: duży,Mały.
+słowa,przeciwieństwo słowa wysoki | jakie jest przeciwieństwo: wysoki | podaj przeciwieństwo: wysoki,Niski.
+słowa,przeciwieństwo słowa ciepły | jakie jest przeciwieństwo: ciepły | podaj przeciwieństwo: ciepły,Zimny.
+słowa,przeciwieństwo słowa dobry | jakie jest przeciwieństwo: dobry | podaj przeciwieństwo: dobry,Zły.
+słowa,przeciwieństwo słowa szybki | jakie jest przeciwieństwo: szybki | podaj przeciwieństwo: szybki,Wolny.
+słowa,przeciwieństwo słowa jasny | jakie jest przeciwieństwo: jasny | podaj przeciwieństwo: jasny,Ciemny.
+słowa,przeciwieństwo słowa suchy | jakie jest przeciwieństwo: suchy | podaj przeciwieństwo: suchy,Mokry.
+słowa,przeciwieństwo słowa lekki | jakie jest przeciwieństwo: lekki | podaj przeciwieństwo: lekki,Ciężki.
+słowa,przeciwieństwo słowa nowy | jakie jest przeciwieństwo: nowy | podaj przeciwieństwo: nowy,Stary.
+słowa,przeciwieństwo słowa młody | jakie jest przeciwieństwo: młody | podaj przeciwieństwo: młody,Stary.
+słowa,przeciwieństwo słowa blisko | jakie jest przeciwieństwo: blisko | podaj przeciwieństwo: blisko,Daleko.
+słowa,przeciwieństwo słowa dzień | jakie jest przeciwieństwo: dzień | podaj przeciwieństwo: dzień,Noc.
+słowa,przeciwieństwo słowa prawda | jakie jest przeciwieństwo: prawda | podaj przeciwieństwo: prawda,Fałsz.
+słowa,przeciwieństwo słowa początek | jakie jest przeciwieństwo: początek | podaj przeciwieństwo: początek,Koniec.
+słowa,przeciwieństwo słowa wejście | jakie jest przeciwieństwo: wejście | podaj przeciwieństwo: wejście,Wyjście.
+słowa,przeciwieństwo słowa góra | jakie jest przeciwieństwo: góra | podaj przeciwieństwo: góra,Dół.
+słowa,przeciwieństwo słowa prawo | jakie jest przeciwieństwo: prawo | podaj przeciwieństwo: prawo,Lewo.
+słowa,przeciwieństwo słowa pełny | jakie jest przeciwieństwo: pełny | podaj przeciwieństwo: pełny,Pusty.
+słowa,przeciwieństwo słowa łatwy | jakie jest przeciwieństwo: łatwy | podaj przeciwieństwo: łatwy,Trudny.
+słowa,przeciwieństwo słowa szeroki | jakie jest przeciwieństwo: szeroki | podaj przeciwieństwo: szeroki,Wąski.
+brak wiedzy,jaki jest sekretny kod zenona | podaj sekretny kod zenona | czy znasz sekretny kod zenona,Nie wiem.
+brak wiedzy,jaki jest hasło telefonu anny | podaj hasło telefonu anny | czy znasz hasło telefonu anny,Nie wiem.
+brak wiedzy,jaki jest numer konta marka | podaj numer konta marka | czy znasz numer konta marka,Nie wiem.
+brak wiedzy,jaki jest pogoda jutro | podaj pogoda jutro | czy znasz pogoda jutro,Nie wiem.
+brak wiedzy,jaki jest wynik meczu jutro | podaj wynik meczu jutro | czy znasz wynik meczu jutro,Nie wiem.
+brak wiedzy,jaki jest imię mojego kota | podaj imię mojego kota | czy znasz imię mojego kota,Nie wiem.
+brak wiedzy,jaki jest moja ulubiona potrawa | podaj moja ulubiona potrawa | czy znasz moja ulubiona potrawa,Nie wiem.
+brak wiedzy,jaki jest aktualna cena złota | podaj aktualna cena złota | czy znasz aktualna cena złota,Nie wiem.
+brak wiedzy,jaki jest prywatny adres ewy | podaj prywatny adres ewy | czy znasz prywatny adres ewy,Nie wiem.

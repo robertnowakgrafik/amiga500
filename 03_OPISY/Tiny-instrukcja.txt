@@ -1,0 +1,145 @@
+TINY 2.1 / AMIGA 500 512 KB / KICKSTART 1.3
+=========================================
+
+AKTUALNA WERSJA: TINY FAST PL + LIVE
+Enter lub przycisk Szybko uruchamia kalkulator albo lokalna baze.
+2+5 daje od razu 7. Panel pokazuje rzeczywiste kroki obliczen po polsku.
+Tekstowe odpowiedzi maja oznaczenie BAZA WIEDZY i jawne zrodlo.
+Przycisk Siec EN uruchamia oryginalny angielski model. Ten tryb jest wolny.
+Polska baza i kalkulator sa dodatkiem; nie sa nowym wytrenowanym modelem.
+Do wygodnego pisania na czcionce Topaz uzywaj polskiego bez ogonkow.
+
+Port oryginalnego Tiny 2.1, dzialajacy lokalnie, bez sieci i bez FPU.
+Wagi sa doczytywane z dyskietki. Nie potrzeba rozszerzenia RAM.
+Model i cache rezerwuja 131456 bajtow (128,4 KiB). Dodatkowo program,
+stos, biblioteka C i okno potrzebuja pamieci. Nie kopiuj modelu do RAM:.
+
+START BEZPOSREDNIO Z ADF
+1. Ustaw A500: 68000, brak FPU, 512 KB Chip RAM, 0 Slow i Fast RAM.
+2. Wybierz swoj ROM Kickstart 1.3.
+3. Do DF0: wloz Tiny-A500-512K-fast-pl-boot.adf i uruchom lub zresetuj Amige.
+4. Tiny powinien uruchomic sie automatycznie. Enter to tryb szybki.
+
+Aktualne obrazy ADF (-live-boot, -quantized-boot, -boot i bez) sa takie same.
+Wczesniejszy obraz z pierwszej paczki byl niebootowalny: pobierz nowy.
+Nie potrzeba osobnej dyskietki Workbencha ani zamieniania dyskow.
+Bootblock dla Kickstartu 1.x uruchamia AmigaDOS z ROM-u, a plik
+S/Startup-Sequence ustawia stos 16 KB i uruchamia okno Tiny.
+Nie jest ladowany pulpit Workbencha z ikonami. Zamkniecie Tiny wraca
+do CLI. Aby uruchomic ponownie, wpisz: Tiny SYS:TINY.BIN
+
+START Z WORKBENCHA
+1. Uruchom swoj Workbench 1.3.
+2. Wloz dyskietke TINY21, otworz ja i kliknij dwukrotnie ikone Tiny.
+3. Wpisz pytanie lub dzialanie. Nacisnij Enter lub przycisk Szybko.
+4. Stop lub Esc przerywa miedzy porcjami obliczen. Zamkniecie okna konczy.
+
+Tytul aktualnej wersji to TINY FAST PL + LIVE. W trybie Siec EN Read oznacza
+czytanie pytania, Write oznacza pisanie odpowiedzi. Pokazywana jest tez
+warstwa, postep wewnatrz znaku i czas od wyslania pytania (minuty:sekundy).
+Podczas liczenia pole pytania i przyciski pytan sa zablokowane; Stop pozostaje aktywny.
+Do krotkiej proby wpisz: 2+2
+
+TRYB SZYBKI
+Matematyka: + - * / ^ i nawiasy; do 6 cyfr po kropce/przecinku.
+Dokladne ulamki z zakresem 32-bitowym. Wykladniki calkowite -16..16.
+Nie wczytuje modelu ani bazy do wykonania dzialan. Przyklady:
+  2+5
+  (2+3)*4
+  ile jest 8 razy 7
+  0,1+0,2
+Pytania z polskiej bazy i danych Tiny:
+  co to RAM
+  co to algorytm
+  dlaczego jest dzien i noc
+  ile nog ma pajak
+  jaki jest symbol zlota
+  jaka jest liczba atomowa tlenu
+  stolica polski
+Nieznane pytanie nie uruchamia samo sieci; mozna je doprecyzowac.
+Baza ma 4523 klucze wyszukiwania, 2676 wspoldzielonych rekordow wartosci
+i odpowiedzi, w tym 86 polskich zestawow. Obejmuje tez oryginalne dane EN.
+To wyszukiwanie lokalne, nie polski model swobodnego rozumowania.
+Indeks bazy zajmuje 54276 bajtow RAM i jest ladowany przy pytaniu tekstowym.
+Wagi i bufory sieci sa ladowane dopiero po wybraniu Siec EN.
+
+WYKRESY NA ZYWO (PANEL PO PRAWEJ)
+LAYERS: srednia aktywacja ReLU warstw dla aktualnego znaku, wzgledem
+najwiekszej dostepnej wartosci. Pomaranczowy kolor wskazuje biezaca warstwe.
+Naglowek podaje aktualny znak i pozycje; NL to separator pytania.
+ATTN L/H: uwaga ostatniej obliczonej glowicy danej warstwy na pozycje
+w kontekscie (pytanie i powstajaca odpowiedz). Do 32 grup pozycji;
+slupki skalowane do maksimum. Pomaranczowy wskazuje najwieksza uwage.
+PICK: prawdopodobienstwo wybranej litery oraz ostatnie 24 wybory.
+Skala 0-100%. Znak _ to spacja, $ to koniec odpowiedzi.
+To pewnosc wyboru ZNAKU, nie poprawnosci odpowiedzi na pytanie.
+Wykresy pokazuja dane z obliczen, nie tekstowy tok rozumowania.
+Odswiezanie nowych danych jest ograniczone do 4 razy na sekunde miedzy
+glownymi zdarzeniami. Podczas oczekiwania na dysk dane nie sa animowane.
+Panel nie otwiera dodatkowego ekranu ani bitmapy. Liczenie statystyk
+i rysowanie nieznacznie zwieksza koszt pracy. Nadal celuje w 512 KB RAM.
+
+ADF to bootowalna dyskietka OFS 880 KB, zgodna z DOS 1.3. Nie zawiera
+ROM-u Kickstart ani plikow z dyskietki Workbencha. Mozna jej tez uzyc
+jako dysku danych pod juz uruchomionym Workbenchem.
+Tiny oraz TINY.BIN musza pozostac obok siebie. Dysk TINY21 pozostaje
+w napedzie przez caly czas pracy. Nie instaluj zewnetrznych bibliotek
+mathieeesing*.library ani ixemul.library - nie sa potrzebne.
+
+START Z CLI
+  TINY21:C/TinyStack
+  TINY21:TinyQuick --database TINY21:TINY.KB --ask "2+5"
+  TINY21:TinyCLI --model TINY21:TINY.BIN
+
+Opcje CLI (pytanie w cudzyslowach):
+  TinyCLI --info
+  TinyCLI --ask "what is 7 times 8"
+  TinyCLI --model TINY21:TINY.BIN --ask "plural of mouse"
+  TinyCLI --max-tokens 16 --ask "what is the capital of peru"
+QUIT konczy tryb interaktywny.
+
+PRZYKLADY
+  what is 7 times 8
+  what is the capital of peru
+  how many legs does a spider have
+  what is the symbol for gold
+  is a whale a fish
+
+SZYBKOSC I OGRANICZENIA
+Procesor 68000 7 MHz bez FPU i stacja DD beda bardzo wolne. Na kazdy
+znak pytania czytane jest ok. 348 KiB wag, a odpowiedzi ok. 357 KiB.
+Zastosowano dodatkowa kwantyzacje aktywacji uwagi do int16 z suma int32.
+Wagi pozostaja oryginalne int8. W porownawczym tescie silnika na 68000
+zuzycie cykli CPU spadlo o 39,55%. Ten pomiar nie uwzglednia opoznien
+rzeczywistej stacji ani GUI i nie gwarantuje takiego skrocenia czekania.
+Spodziewaj sie
+dlugiego liczenia i intensywnej pracy stacji. Rzeczywistego czasu na
+A500 nie zmierzono. Krotkie pytania ograniczaja czas i odczyty.
+To eksperyment retro, a nie praktyczny odpowiednik ChatGPT.
+Model zna oryginalne angielskie dane i potrafi podawac bledne fakty.
+Pytanie: do 72 znakow ASCII. Kontekst: lacznie 128 znakow.
+Odpowiedzi sa deterministyczne. Port nie ma dzwieku ani syntezy mowy.
+
+STAN WERYFIKACJI
+Kod skompilowano dla 68000 / runtime nix13; matematyka jest dolaczona
+statycznie. Silnik CLI sprawdzono w VAMOS na 68000 z ograniczona
+pamiecia. Testy na komputerze porownuja odpowiedzi z oryginalem DOS,
+sprawdzaja uszkodzone pliki, przerwanie, blad odczytu i zwalnianie RAM.
+Monitor sprawdzono na 68000 z budzetem 224 KiB i testami ASan/UBSan.
+Testy sprawdzaja sumy uwagi, prawdopodobienstwa, litery, granice wykresow
+oraz identyczna odpowiedz po wlaczeniu monitorowania.
+Ikone sprawdzono parserem klasycznych DiskObject, a ADF przez fsck.
+Sprawdzono bootblock 1.x, jego sume kontrolna i plik startowy. Program
+ustawiajacy stos wykonano w emulatorze 68000 ze stosem startowym 4 KB.
+Pelnego rozruchu z ROM-em Kickstart 1.3 nie sprawdzono w tym srodowisku.
+Interfejs skompilowano z API 1.3, ale NIE testowano go na rzeczywistym
+Workbench 1.3 ani na fizycznej A500. To port eksperymentalny.
+Kalkulator i baze sprawdzono w ASan/UBSan oraz na 68000 z budzetem
+192 KiB. Dzialanie 2+5 dziala bez pliku modelu i bazy przy budzecie 128 KiB.
+
+ZRODLA I LICENCJE
+Baza: https://github.com/WollyMonjac/Tiny-2.1
+Rewizja: 49348445661ffc9106f243afb4eafe499a51e286
+Kod aplikacji: MIT (LICENSE). Model: patrz DATA_LICENSES.md.
+Runtime GCC: GPLv3 + GCC Runtime Library Exception (COPYING3,
+COPYING.RUNTIME, THIRD-PARTY.txt). Pelne zrodla sa w osobnym ZIP.

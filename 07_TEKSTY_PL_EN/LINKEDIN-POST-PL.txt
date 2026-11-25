@@ -1,0 +1,20 @@
+Czy polski model językowy może działać na komputerze z 1987 roku i zaledwie 0,5 MB RAM?
+
+Od tego pomysłu zaczęliśmy. Celem była fabryczna Amiga 500 — bez rozszerzeń pamięci, akceleratora i FPU. Punktem wyjścia był Tiny 2.1 autorstwa WollyMonjac, pierwotnie dla DOS-u.
+
+Pierwszy port uruchomił się, ale odpowiedzi zajmowały minuty. Nawet 2+5 trafiało do transformatora. Kolejne iteracje przyniosły:
+• bootowalny ADF, bez osobnej dyskietki Workbench;
+• obliczenia int8 × int16 z sumą int32 i optymalizację uwagi;
+• osobny, dokładny kalkulator z widocznymi krokami;
+• polski interfejs, objaśnienia i podgląd pracy sieci;
+• nowy PolTiny PL: 687 616 parametrów, około 1,88× więcej niż oryginał.
+
+W porównywalnym teście pierwotnego silnika liczba cykli CPU spadła o 39,55%. Kalkulator 2+5 zużywa około 0,020 s cykli 68000. Generowanie tekstu przez większy model nadal jest wolne.
+
+Całość zajmuje 99,55% dyskietki 880 KiB. Potwierdziłem działanie w WinUAE; ADF startuje sam i nie wymaga osobnego Workbencha, ale potrzebuje Kickstartu 1.3.
+
+Ograniczenia też są częścią wyniku: 99,66% dokładnych odpowiedzi na pytania treningowe i 33,88% na odłożone sformułowania. To mały eksperyment językowy, a nie współczesny duży LLM. Podane czasy są pomiarami cykli CPU, bez opóźnień fizycznej dyskietki.
+
+Projekt rozwijany z pomocą OpenAI Codex, na bazie Tiny 2.1 / WollyMonjac (MIT).
+
+#Amiga #Retrocomputing #MachineLearning #EmbeddedSystems #PolTiny

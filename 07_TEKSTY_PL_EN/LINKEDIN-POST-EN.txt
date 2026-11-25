@@ -1,0 +1,20 @@
+Can a Polish language model run on a 1987 computer with just 0.5 MB RAM?
+
+That was the brief: a stock Amiga 500, with no memory expansion, accelerator or FPU. We started from WollyMonjac's Tiny 2.1, originally designed for DOS.
+
+The first port ran, but responses took minutes. Even 2+5 was sent through the transformer. Iteration brought:
+• a self-booting ADF, with no separate Workbench disk;
+• int8 × int16 products, int32 accumulation and attention optimisation;
+• an exact calculator showing its actual steps;
+• a Polish interface, explanations and live engine telemetry;
+• a new PolTiny PL model: 687,616 parameters, about 1.88× the original.
+
+In a controlled comparison of the original engine, CPU-cycle consumption fell by 39.55%. The 2+5 calculator command uses roughly 0.020 seconds of 68000 CPU cycles. Text generation with the larger model remains slow.
+
+Useful files and OFS overhead fill 99.55% of one 880 KiB floppy. I confirmed it running in WinUAE. The ADF boots itself and requires no separate Workbench disk, although Kickstart 1.3 is still needed.
+
+The limitations matter too: 99.66% exact matches on training questions and 33.88% on held-out rephrasings. This is a small language-model experiment, with far less capability than a modern large LLM. Timing figures count CPU cycles and exclude physical floppy latency.
+
+Developed with OpenAI Codex, based on Tiny 2.1 / WollyMonjac (MIT).
+
+#Amiga #Retrocomputing #MachineLearning #EmbeddedSystems #PolTiny

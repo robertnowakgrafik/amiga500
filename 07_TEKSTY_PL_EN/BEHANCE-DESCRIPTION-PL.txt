@@ -1,0 +1,5 @@
+Od pierwszego portu i minut czekania do polskiej wersji na jednej dyskietce.
+
+Fabryczna Amiga 500: 0,5 MB RAM (512 KiB), bez rozszerzeń pamięci, akceleratora i FPU.
+
+Amiga 500 to domowy komputer z 1987 roku — dziś sprzęt zabytkowy. Około 7 MHz, pół megabajta pamięci i dyskietki zamiast współczesnego dysku. Uruchomienie na nim polskiego modelu językowego brzmi jak science fiction. Od tego pomysłu zaczęliśmy.

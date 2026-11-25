@@ -1,0 +1,5 @@
+From a slow first port to a Polish model on one floppy disk.
+
+A stock Amiga 500: 0.5 MB RAM (512 KiB), no memory expansion, accelerator or FPU.
+
+The Amiga 500 is a 1987 home computer, now vintage hardware. A roughly 7 MHz processor, half a megabyte of memory and floppy disks instead of modern storage. Running a Polish language model on it sounds like science fiction. That was our starting point.
